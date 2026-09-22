@@ -1,0 +1,39 @@
+{
+  "principles": [
+    "Position anatomique",
+    "Plans et axes",
+    "Ostéologie",
+    "Arthrologie",
+    "Myologie",
+    "Neuroanatomie",
+    "Biomécanique",
+    "Bilan kiné",
+    "Rééducation",
+    "Raisonnement clinique"
+  ],
+  "study_chain": [
+    "Identifier",
+    "Localiser",
+    "Décrire",
+    "Relier à l'articulation",
+    "Relier au mouvement",
+    "Identifier le nerf",
+    "Comprendre la biomécanique",
+    "Relier à une pathologie",
+    "Choisir un bilan",
+    "Choisir une progression",
+    "S'auto-évaluer"
+  ],
+  "modules": [
+    "Atlas",
+    "Nerfs",
+    "Mouvements",
+    "Biomécanique",
+    "Bilan",
+    "Pathologies",
+    "Exercices",
+    "Cours UFV",
+    "Examens",
+    "Suivi"
+  ]
+}

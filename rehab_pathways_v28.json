@@ -1,0 +1,118 @@
+[
+  {
+    "id": "ankle_10d",
+    "title": "Entorse bénigne de cheville — J10",
+    "region": "Cheville",
+    "context": "Légère douleur à la marche, œdème et mobilité réduite après traumatisme.",
+    "goals": [
+      "récupérer la mobilité",
+      "renforcer les stabilisateurs",
+      "réentraîner l'équilibre",
+      "reprendre progressivement la fonction"
+    ],
+    "stages": [
+      {
+        "name": "1. Bilan",
+        "items": [
+          "douleur et tolérance à l'appui",
+          "œdème",
+          "dorsiflexion / flexion plantaire",
+          "stabilité et contrôle"
+        ]
+      },
+      {
+        "name": "2. Mobilité",
+        "items": [
+          "mobilité active contrôlée",
+          "travail progressif de dorsiflexion",
+          "réévaluation de la tolérance"
+        ]
+      },
+      {
+        "name": "3. Force",
+        "items": [
+          "fibulaires",
+          "triceps sural",
+          "tibial antérieur",
+          "progression de résistance"
+        ]
+      },
+      {
+        "name": "4. Proprioception",
+        "items": [
+          "appui bipodal",
+          "appui unipodal",
+          "perturbations progressives",
+          "tâches fonctionnelles"
+        ]
+      },
+      {
+        "name": "5. Retour fonctionnel",
+        "items": [
+          "marche",
+          "escaliers",
+          "changements de direction selon niveau",
+          "critères fonctionnels avant reprise sportive"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "knee_postop",
+    "title": "Genou — récupération fonctionnelle progressive",
+    "region": "Genou",
+    "context": "Déficit de force et de contrôle du membre inférieur, protocole à individualiser.",
+    "goals": [
+      "récupérer les amplitudes",
+      "restaurer la force",
+      "améliorer le contrôle",
+      "retrouver les activités fonctionnelles"
+    ],
+    "stages": [
+      {
+        "name": "1. Bilan",
+        "items": [
+          "amplitudes",
+          "douleur / gonflement",
+          "activation du quadriceps",
+          "qualité du mouvement"
+        ]
+      },
+      {
+        "name": "2. Activation",
+        "items": [
+          "contractions isométriques",
+          "mobilité adaptée",
+          "contrôle du membre inférieur"
+        ]
+      },
+      {
+        "name": "3. Renforcement",
+        "items": [
+          "quadriceps",
+          "chaîne postérieure",
+          "chaîne fermée progressive",
+          "augmentation graduée de la charge"
+        ]
+      },
+      {
+        "name": "4. Contrôle",
+        "items": [
+          "équilibre",
+          "contrôle frontal du genou",
+          "proprioception",
+          "tâches fonctionnelles"
+        ]
+      },
+      {
+        "name": "5. Retour fonctionnel",
+        "items": [
+          "assis-debout",
+          "escaliers",
+          "marche",
+          "tests fonctionnels adaptés au protocole"
+        ]
+      }
+    ]
+  }
+]

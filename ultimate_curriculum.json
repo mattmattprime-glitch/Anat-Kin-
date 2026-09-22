@@ -1,0 +1,37 @@
+{
+  "modules": [
+    {
+      "id": "anatomie",
+      "title": "Anatomie",
+      "desc": "Structures, régions, rapports, origine/insertion, innervation, actions."
+    },
+    {
+      "id": "biomecanique",
+      "title": "Biomécanique",
+      "desc": "Forces, moments, leviers, plans, axes, cinématique et analyse du mouvement."
+    },
+    {
+      "id": "physiologie",
+      "title": "Physiologie",
+      "desc": "Homéostasie, systèmes, muscle, système nerveux et physiologie cellulaire."
+    },
+    {
+      "id": "kinesitherapie",
+      "title": "Kinésithérapie",
+      "desc": "Bilan, objectifs, mouvement thérapeutique, relation et progression."
+    },
+    {
+      "id": "clinique",
+      "title": "Clinique",
+      "desc": "Cas, pathologies, raisonnement, critères de progression et rééducation."
+    }
+  ],
+  "learning_loop": [
+    "Apprendre",
+    "Comprendre",
+    "S'entraîner",
+    "Évaluer",
+    "Corriger",
+    "Revoir"
+  ]
+}

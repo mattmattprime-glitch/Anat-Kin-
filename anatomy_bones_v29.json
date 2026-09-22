@@ -1,0 +1,92 @@
+[
+  {
+    "id": "scapula",
+    "label": "Scapula",
+    "region": "Ceinture scapulaire",
+    "description": "Os plat; glène; acromion; processus coracoïde"
+  },
+  {
+    "id": "clavicle",
+    "label": "Clavicule",
+    "region": "Ceinture scapulaire",
+    "description": "Os long; relie sternum et scapula"
+  },
+  {
+    "id": "humerus",
+    "label": "Humérus",
+    "region": "Bras",
+    "description": "Tête humérale; tubercules; trochlée; capitulum"
+  },
+  {
+    "id": "radius",
+    "label": "Radius",
+    "region": "Avant-bras",
+    "description": "Tête radiale; col; tubérosité; extrémité distale"
+  },
+  {
+    "id": "ulna",
+    "label": "Ulna",
+    "region": "Avant-bras",
+    "description": "Olécrâne; processus coronoïde; incisure trochléaire"
+  },
+  {
+    "id": "pelvis",
+    "label": "Os coxal",
+    "region": "Bassin",
+    "description": "Ilion; ischion; pubis; acétabulum"
+  },
+  {
+    "id": "femur",
+    "label": "Fémur",
+    "region": "Cuisse",
+    "description": "Tête; col; trochanters; condyles"
+  },
+  {
+    "id": "patella",
+    "label": "Patella",
+    "region": "Genou",
+    "description": "Os sésamoïde du tendon quadricipital"
+  },
+  {
+    "id": "tibia",
+    "label": "Tibia",
+    "region": "Jambe",
+    "description": "Plateau tibial; tubérosité; malléole médiale"
+  },
+  {
+    "id": "fibula",
+    "label": "Fibula",
+    "region": "Jambe",
+    "description": "Tête; corps; malléole latérale"
+  },
+  {
+    "id": "talus",
+    "label": "Talus",
+    "region": "Pied",
+    "description": "Participe à l'articulation talo-crurale"
+  },
+  {
+    "id": "calcaneus",
+    "label": "Calcanéus",
+    "region": "Pied",
+    "description": "Plus grand os du tarse; insertion du tendon calcanéen"
+  },
+  {
+    "id": "vertebra",
+    "label": "Vertèbre",
+    "region": "Rachis",
+    "description": "Corps, arc, processus; variations selon région"
+  },
+  {
+    "id": "sternum",
+    "label": "Sternum",
+    "region": "Thorax",
+    "description": "Manubrium, corps, processus xiphoïde"
+  },
+  {
+    "id": "rib",
+    "label": "Côte",
+    "region": "Thorax",
+    "description": "Os plat courbe participant à la cage thoracique"
+  }
+]

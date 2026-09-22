@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Clavicule",
+    "region": "Ceinture scapulaire",
+    "landmarks": "Extrémités sternale et acromiale",
+    "role": "Relie membre supérieur au squelette axial et maintient l'épaule latéralement."
+  },
+  {
+    "name": "Scapula",
+    "region": "Ceinture scapulaire",
+    "landmarks": "Acromion, processus coracoïde, glène, épines",
+    "role": "Plateforme mobile de l'épaule et insertions musculaires majeures."
+  },
+  {
+    "name": "Humérus",
+    "region": "Bras",
+    "landmarks": "Tête, tubercules, trochlée, capitulum, épicondyles",
+    "role": "Os du bras et bras de levier de l'épaule/coude."
+  },
+  {
+    "name": "Radius",
+    "region": "Avant-bras",
+    "landmarks": "Tête radiale, tubérosité, styloïde",
+    "role": "Participe au coude et au poignet; pivote autour de l'ulna lors de pronosupination."
+  },
+  {
+    "name": "Ulna",
+    "region": "Avant-bras",
+    "landmarks": "Olécrâne, processus coronoïde, tête ulnaire",
+    "role": "Stabilisateur majeur du coude."
+  },
+  {
+    "name": "Fémur",
+    "region": "Cuisse",
+    "landmarks": "Tête, col, grands/petits trochanters, condyles",
+    "role": "Os porteur majeur et bras de levier de hanche/genou."
+  },
+  {
+    "name": "Patella",
+    "region": "Genou",
+    "landmarks": "Base, apex, facettes articulaires",
+    "role": "Augmente le bras de levier du quadriceps et protège l'appareil extenseur."
+  },
+  {
+    "name": "Tibia",
+    "region": "Jambe",
+    "landmarks": "Plateaux tibiaux, tubérosité, malléole médiale",
+    "role": "Principal os porteur de la jambe."
+  },
+  {
+    "name": "Fibula",
+    "region": "Jambe",
+    "landmarks": "Tête, col, malléole latérale",
+    "role": "Stabilisation latérale de la cheville et insertions musculaires."
+  },
+  {
+    "name": "Talus",
+    "region": "Pied",
+    "landmarks": "Trochlée, col, tête",
+    "role": "Transmet les charges entre jambe et pied."
+  },
+  {
+    "name": "Calcaneus",
+    "region": "Pied",
+    "landmarks": "Tubérosité, sustentaculum tali",
+    "role": "Point d'appui postérieur et insertion du tendon calcanéen."
+  }
+]

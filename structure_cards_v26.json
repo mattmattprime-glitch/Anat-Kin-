@@ -1,0 +1,70 @@
+{
+  "quadriceps": {
+    "label": "Quadriceps fémoral",
+    "type": "Muscle",
+    "region": "Cuisse antérieure",
+    "origin": "Droit fémoral : EIAI et région supra-acétabulaire ; vastes : fémur selon leurs insertions proximales.",
+    "insertion": "Patella puis tubérosité tibiale via le ligament patellaire.",
+    "innervation": "Nerf fémoral (L2-L4).",
+    "action": "Extension du genou ; le droit fémoral participe aussi à la flexion de hanche.",
+    "clinical": [
+      "déficit de force après immobilisation ou chirurgie du genou",
+      "contrôle du membre inférieur",
+      "fonction assis-debout et escaliers"
+    ],
+    "tests": [
+      "extension active du genou",
+      "force contre résistance",
+      "qualité du contrôle en chaîne fermée"
+    ],
+    "redflags": [
+      "douleur importante ou inhabituelle",
+      "gonflement aigu important",
+      "blocage articulaire"
+    ]
+  },
+  "biceps_brachii": {
+    "label": "Biceps brachial",
+    "type": "Muscle",
+    "region": "Bras antérieur",
+    "origin": "Chef long : tubercule supraglénoïdal ; chef court : processus coracoïde.",
+    "insertion": "Tubérosité du radius et aponévrose bicipitale.",
+    "innervation": "Nerf musculo-cutané (C5-C6).",
+    "action": "Flexion du coude et supination de l'avant-bras ; participation à la flexion de l'épaule.",
+    "clinical": [
+      "déficit de flexion du coude",
+      "travail fonctionnel de tirage",
+      "contrôle de la supination"
+    ],
+    "tests": [
+      "flexion contre résistance",
+      "supination contre résistance"
+    ],
+    "redflags": [
+      "douleur aiguë après effort avec perte brutale de force",
+      "déformation inhabituelle"
+    ]
+  },
+  "tibialis_anterior": {
+    "label": "Tibial antérieur",
+    "type": "Muscle",
+    "region": "Jambe antérieure",
+    "origin": "Condyle latéral et face latérale du tibia, membrane interosseuse.",
+    "insertion": "Face médiale du pied, notamment base du premier métatarsien et cunéiforme médial.",
+    "innervation": "Nerf fibulaire profond (L4-L5).",
+    "action": "Dorsiflexion et inversion du pied.",
+    "clinical": [
+      "déficit de dorsiflexion",
+      "contrôle du pied en phase oscillante",
+      "rééducation après entorse"
+    ],
+    "tests": [
+      "dorsiflexion contre résistance",
+      "observation du passage du pas"
+    ],
+    "redflags": [
+      "déficit neurologique nouveau",
+      "faiblesse brutale"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": "FINAL EDITION",
+  "counts": {
+    "muscles": 85,
+    "bones": 33,
+    "joints": 26,
+    "nerves": 13,
+    "ligaments": 6,
+    "pathologies": 6,
+    "exercises": 12,
+    "bilans": 4,
+    "movements": 10,
+    "courses": 7,
+    "exam_questions": 138
+  }
+}

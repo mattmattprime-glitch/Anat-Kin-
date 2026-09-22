@@ -1,0 +1,58 @@
+[
+  {
+    "id": "glenohumeral",
+    "label": "Glenohumérale",
+    "region": "Épaule",
+    "type": "sphéroïde",
+    "movements": "Flexion, extension, abduction, adduction, rotations, circumduction"
+  },
+  {
+    "id": "elbow",
+    "label": "Coude",
+    "region": "Coude",
+    "type": "charnière principalement",
+    "movements": "Flexion, extension; prono-supination via articulations radio-ulnaires"
+  },
+  {
+    "id": "wrist",
+    "label": "Radio-carpienne",
+    "region": "Poignet",
+    "type": "ellipsoïde",
+    "movements": "Flexion, extension, inclinaisons radiale et ulnaire"
+  },
+  {
+    "id": "hip",
+    "label": "Coxo-fémorale",
+    "region": "Hanche",
+    "type": "sphéroïde",
+    "movements": "Flexion, extension, abduction, adduction, rotations"
+  },
+  {
+    "id": "knee",
+    "label": "Genou",
+    "region": "Genou",
+    "type": "bicondylaire complexe",
+    "movements": "Flexion, extension; rotations accessoires en flexion"
+  },
+  {
+    "id": "ankle",
+    "label": "Talo-crurale",
+    "region": "Cheville",
+    "type": "ginglyme",
+    "movements": "Dorsiflexion et flexion plantaire"
+  },
+  {
+    "id": "subtalar",
+    "label": "Sous-talienne",
+    "region": "Pied",
+    "type": "articulation synoviale",
+    "movements": "Mouvements contribuant à l'inversion/éversion"
+  },
+  {
+    "id": "cervical",
+    "label": "Rachis cervical",
+    "region": "Rachis",
+    "type": "complexe",
+    "movements": "Flexion, extension, inclinaisons, rotations"
+  }
+]

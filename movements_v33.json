@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Flexion du coude",
+    "joint": "Coude",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Biceps brachii",
+      "Brachialis"
+    ],
+    "antagonists": [
+      "Triceps brachii"
+    ],
+    "clinical": "Mesurer amplitude, force et douleur; utile dans les activités de vie quotidienne."
+  },
+  {
+    "name": "Extension du genou",
+    "joint": "Genou",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Quadriceps"
+    ],
+    "antagonists": [
+      "Ischio-jambiers"
+    ],
+    "clinical": "Essentielle pour marche, escaliers et lever de chaise."
+  },
+  {
+    "name": "Flexion plantaire",
+    "joint": "Cheville",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Gastrocnemius",
+      "Soleus"
+    ],
+    "antagonists": [
+      "Tibialis anterior"
+    ],
+    "clinical": "Propulsion et montée sur pointe."
+  },
+  {
+    "name": "Dorsiflexion",
+    "joint": "Cheville",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Tibialis anterior"
+    ],
+    "antagonists": [
+      "Triceps sural"
+    ],
+    "clinical": "Avancée du tibia et dégagement du pied."
+  },
+  {
+    "name": "Abduction de hanche",
+    "joint": "Hanche",
+    "plane": "Frontal",
+    "axis": "Sagittal",
+    "prime_movers": [
+      "Gluteus medius",
+      "Gluteus minimus"
+    ],
+    "antagonists": [
+      "Adducteurs"
+    ],
+    "clinical": "Contrôle du bassin en appui unipodal."
+  },
+  {
+    "name": "Rotation médiale de l'épaule",
+    "joint": "Glenohumérale",
+    "plane": "Transversal",
+    "axis": "Longitudinal",
+    "prime_movers": [
+      "Subscapularis",
+      "Pectoralis major"
+    ],
+    "antagonists": [
+      "Infraspinatus",
+      "Teres minor"
+    ],
+    "clinical": "Contrôle de l'épaule lors des gestes fonctionnels."
+  },
+  {
+    "name": "Pronation",
+    "joint": "Radio-ulnaire",
+    "plane": "Transversal",
+    "axis": "Longitudinal",
+    "prime_movers": [
+      "Pronator teres",
+      "Pronator quadratus"
+    ],
+    "antagonists": [
+      "Supinator",
+      "Biceps brachii"
+    ],
+    "clinical": "Orientation de la paume vers le bas."
+  },
+  {
+    "name": "Supination",
+    "joint": "Radio-ulnaire",
+    "plane": "Transversal",
+    "axis": "Longitudinal",
+    "prime_movers": [
+      "Biceps brachii",
+      "Supinator"
+    ],
+    "antagonists": [
+      "Pronateurs"
+    ],
+    "clinical": "Orientation de la paume vers le haut."
+  },
+  {
+    "name": "Rotation cervicale",
+    "joint": "Rachis cervical",
+    "plane": "Transversal",
+    "axis": "Longitudinal",
+    "prime_movers": [
+      "Sternocleidomastoid",
+      "Splenius"
+    ],
+    "antagonists": [
+      "Muscles rotateurs opposés"
+    ],
+    "clinical": "Mobilité nécessaire pour l'orientation visuelle."
+  },
+  {
+    "name": "Flexion du tronc",
+    "joint": "Rachis",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Rectus abdominis",
+      "Obliques"
+    ],
+    "antagonists": [
+      "Erector spinae"
+    ],
+    "clinical": "Se pencher, transfert et gestes fonctionnels."
+  }
+]

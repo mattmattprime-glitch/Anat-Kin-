@@ -1,0 +1,212 @@
+[
+  {
+    "course_id": "anatomie-intro",
+    "course": "Anatomie humaine — Introduction",
+    "chapter_id": "anatomie-intro_1",
+    "title": "Position anatomique"
+  },
+  {
+    "course_id": "anatomie-intro",
+    "course": "Anatomie humaine — Introduction",
+    "chapter_id": "anatomie-intro_2",
+    "title": "Plans et axes"
+  },
+  {
+    "course_id": "anatomie-intro",
+    "course": "Anatomie humaine — Introduction",
+    "chapter_id": "anatomie-intro_3",
+    "title": "Termes anatomiques"
+  },
+  {
+    "course_id": "anatomie-intro",
+    "course": "Anatomie humaine — Introduction",
+    "chapter_id": "anatomie-intro_4",
+    "title": "Mouvements"
+  },
+  {
+    "course_id": "anatomie-intro",
+    "course": "Anatomie humaine — Introduction",
+    "chapter_id": "anatomie-intro_5",
+    "title": "Articulations"
+  },
+  {
+    "course_id": "squelette-mmss",
+    "course": "Système squelettique appendiculaire — MMSS",
+    "chapter_id": "squelette-mmss_1",
+    "title": "Ceinture scapulaire"
+  },
+  {
+    "course_id": "squelette-mmss",
+    "course": "Système squelettique appendiculaire — MMSS",
+    "chapter_id": "squelette-mmss_2",
+    "title": "Bras"
+  },
+  {
+    "course_id": "squelette-mmss",
+    "course": "Système squelettique appendiculaire — MMSS",
+    "chapter_id": "squelette-mmss_3",
+    "title": "Avant-bras"
+  },
+  {
+    "course_id": "squelette-mmss",
+    "course": "Système squelettique appendiculaire — MMSS",
+    "chapter_id": "squelette-mmss_4",
+    "title": "Main"
+  },
+  {
+    "course_id": "squelette-mmss",
+    "course": "Système squelettique appendiculaire — MMSS",
+    "chapter_id": "squelette-mmss_5",
+    "title": "Articulations du membre supérieur"
+  },
+  {
+    "course_id": "fondements-kine",
+    "course": "Fondements de la kinésithérapie — Concepts généraux",
+    "chapter_id": "fondements-kine_1",
+    "title": "Définition de la kinésithérapie"
+  },
+  {
+    "course_id": "fondements-kine",
+    "course": "Fondements de la kinésithérapie — Concepts généraux",
+    "chapter_id": "fondements-kine_2",
+    "title": "Mouvement et kinesis"
+  },
+  {
+    "course_id": "fondements-kine",
+    "course": "Fondements de la kinésithérapie — Concepts généraux",
+    "chapter_id": "fondements-kine_3",
+    "title": "Agents thérapeutiques"
+  },
+  {
+    "course_id": "fondements-kine",
+    "course": "Fondements de la kinésithérapie — Concepts généraux",
+    "chapter_id": "fondements-kine_4",
+    "title": "Objectifs de rééducation"
+  },
+  {
+    "course_id": "fondements-kine",
+    "course": "Fondements de la kinésithérapie — Concepts généraux",
+    "chapter_id": "fondements-kine_5",
+    "title": "Relation thérapeutique"
+  },
+  {
+    "course_id": "biomeca-intro",
+    "course": "Biomécanique — Introduction",
+    "chapter_id": "biomeca-intro_1",
+    "title": "Forces"
+  },
+  {
+    "course_id": "biomeca-intro",
+    "course": "Biomécanique — Introduction",
+    "chapter_id": "biomeca-intro_2",
+    "title": "Équilibre"
+  },
+  {
+    "course_id": "biomeca-intro",
+    "course": "Biomécanique — Introduction",
+    "chapter_id": "biomeca-intro_3",
+    "title": "Leviers"
+  },
+  {
+    "course_id": "biomeca-intro",
+    "course": "Biomécanique — Introduction",
+    "chapter_id": "biomeca-intro_4",
+    "title": "Lois de Newton"
+  },
+  {
+    "course_id": "biomeca-intro",
+    "course": "Biomécanique — Introduction",
+    "chapter_id": "biomeca-intro_5",
+    "title": "Analyse mécanique"
+  },
+  {
+    "course_id": "biomeca-mouvement",
+    "course": "Biomécanique — Analyse du mouvement et magnitudes",
+    "chapter_id": "biomeca-mouvement_1",
+    "title": "Mouvement"
+  },
+  {
+    "course_id": "biomeca-mouvement",
+    "course": "Biomécanique — Analyse du mouvement et magnitudes",
+    "chapter_id": "biomeca-mouvement_2",
+    "title": "Vecteurs"
+  },
+  {
+    "course_id": "biomeca-mouvement",
+    "course": "Biomécanique — Analyse du mouvement et magnitudes",
+    "chapter_id": "biomeca-mouvement_3",
+    "title": "Magnitudes"
+  },
+  {
+    "course_id": "biomeca-mouvement",
+    "course": "Biomécanique — Analyse du mouvement et magnitudes",
+    "chapter_id": "biomeca-mouvement_4",
+    "title": "Moments et couples"
+  },
+  {
+    "course_id": "biomeca-mouvement",
+    "course": "Biomécanique — Analyse du mouvement et magnitudes",
+    "chapter_id": "biomeca-mouvement_5",
+    "title": "Cinématique"
+  },
+  {
+    "course_id": "physio-bloc1",
+    "course": "Physiologie humaine — Bloc I",
+    "chapter_id": "physio-bloc1_1",
+    "title": "Homéostasie"
+  },
+  {
+    "course_id": "physio-bloc1",
+    "course": "Physiologie humaine — Bloc I",
+    "chapter_id": "physio-bloc1_2",
+    "title": "Fonctions physiologiques"
+  },
+  {
+    "course_id": "physio-bloc1",
+    "course": "Physiologie humaine — Bloc I",
+    "chapter_id": "physio-bloc1_3",
+    "title": "Systèmes"
+  },
+  {
+    "course_id": "physio-bloc1",
+    "course": "Physiologie humaine — Bloc I",
+    "chapter_id": "physio-bloc1_4",
+    "title": "Muscle"
+  },
+  {
+    "course_id": "physio-bloc1",
+    "course": "Physiologie humaine — Bloc I",
+    "chapter_id": "physio-bloc1_5",
+    "title": "Système nerveux"
+  },
+  {
+    "course_id": "physio-cellule",
+    "course": "Physiologie cellulaire — Synthèse des protéines et division",
+    "chapter_id": "physio-cellule_1",
+    "title": "Organisation cellulaire"
+  },
+  {
+    "course_id": "physio-cellule",
+    "course": "Physiologie cellulaire — Synthèse des protéines et division",
+    "chapter_id": "physio-cellule_2",
+    "title": "ADN et information génétique"
+  },
+  {
+    "course_id": "physio-cellule",
+    "course": "Physiologie cellulaire — Synthèse des protéines et division",
+    "chapter_id": "physio-cellule_3",
+    "title": "Synthèse des protéines"
+  },
+  {
+    "course_id": "physio-cellule",
+    "course": "Physiologie cellulaire — Synthèse des protéines et division",
+    "chapter_id": "physio-cellule_4",
+    "title": "Cycle cellulaire"
+  },
+  {
+    "course_id": "physio-cellule",
+    "course": "Physiologie cellulaire — Synthèse des protéines et division",
+    "chapter_id": "physio-cellule_5",
+    "title": "Division cellulaire"
+  }
+]

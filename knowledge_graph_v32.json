@@ -1,0 +1,776 @@
+{
+  "muscles": {
+    "deltoide": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "supraspinatus": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "infraspinatus": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "teres_minor": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "subscapularis": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "pectoralis_major": {
+      "bones": [
+        "sternum"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "latissimus_dorsi": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "biceps": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "brachialis": {
+      "bones": [
+        "ulna"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "triceps": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "brachioradialis": {
+      "bones": [
+        "radius"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "pronator_teres": {
+      "bones": [
+        "radius",
+        "ulna"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "flexor_carpi_radialis": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "extensor_carpi_radialis": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "iliopsoas": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "gluteus_maximus": {
+      "bones": [
+        "tibia",
+        "sacrum",
+        "coccyx"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "gluteus_medius": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "tensor_fasciae_latae": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "rectus_femoris": {
+      "bones": [
+        "patella",
+        "tibia"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "vastus_lateralis": {
+      "bones": [
+        "patella"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "vastus_medialis": {
+      "bones": [
+        "patella"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "sartorius": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "adductor_longus": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "gracilis": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "biceps_femoris": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "semitendinosus": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "semimembranosus": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "tibialis_anterior": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "gastrocnemius": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "soleus": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "fibularis_longus": {
+      "bones": [
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "fibularis_brevis": {
+      "bones": [
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "tibialis_posterior": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "extensor_hallucis_longus": {
+      "bones": [
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "extensor_digitorum_longus": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "masseter": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "temporalis": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "sternocleidomastoid": {
+      "bones": [],
+      "joints": [
+        "cervical"
+      ],
+      "pathologies": [],
+      "exercises": []
+    },
+    "trapezius": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [
+        "cervical"
+      ],
+      "pathologies": [],
+      "exercises": []
+    },
+    "rhomboid_major": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "serratus_anterior": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "rectus_abdominis": {
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "erector_spinae": {
+      "bones": [
+        "sacrum"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "piriformis": {
+      "bones": [
+        "sacrum"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "popliteus": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "plantaris": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "extensor_carpi_ulnaris": {
+      "bones": [
+        "ulna"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    }
+  },
+  "bones": {
+    "scapula": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "clavicle": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "humerus": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "radius": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "ulna": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "pelvis": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "femur": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "patella": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "tibia": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "fibula": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "talus": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "calcaneus": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "vertebra": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "sternum": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "rib": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "mandible": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "skull": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "sacrum": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "coccyx": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "carpals": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "metacarpals": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "phalanges_hand": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "tarsals": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "metatarsals": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "phalanges_foot": {
+      "muscles": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    }
+  },
+  "joints": {
+    "glenohumeral": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "elbow": {
+      "muscles": [],
+      "bones": [
+        "ulna"
+      ],
+      "pathologies": [],
+      "exercises": []
+    },
+    "wrist": {
+      "muscles": [],
+      "bones": [
+        "ulna"
+      ],
+      "pathologies": [],
+      "exercises": []
+    },
+    "hip": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "knee": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "ankle": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "subtalar": {
+      "muscles": [],
+      "bones": [
+        "rib"
+      ],
+      "pathologies": [],
+      "exercises": []
+    },
+    "cervical": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "atm": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "cervical_upper": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "radioulnar": {
+      "muscles": [],
+      "bones": [
+        "ulna"
+      ],
+      "pathologies": [],
+      "exercises": []
+    },
+    "thumb_cmc": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "mtp": {
+      "muscles": [],
+      "bones": [],
+      "pathologies": [],
+      "exercises": []
+    }
+  },
+  "pathologies": {
+    "lateral_ankle_sprain": {
+      "muscles": [],
+      "bones": [
+        "fibula"
+      ],
+      "joints": [
+        "ankle"
+      ],
+      "exercises": []
+    },
+    "patellofemoral_pain": {
+      "muscles": [],
+      "bones": [
+        "patella"
+      ],
+      "joints": [],
+      "exercises": []
+    },
+    "shoulder_rotator_cuff": {
+      "muscles": [],
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "exercises": []
+    },
+    "low_back_pain": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "exercises": []
+    },
+    "ankle_instability": {
+      "muscles": [],
+      "bones": [
+        "fibula"
+      ],
+      "joints": [
+        "ankle"
+      ],
+      "exercises": [
+        "Équilibre unipodal"
+      ]
+    },
+    "neck_pain": {
+      "muscles": [],
+      "bones": [
+        "scapula"
+      ],
+      "joints": [
+        "cervical"
+      ],
+      "exercises": []
+    },
+    "achilles_tendinopathy": {
+      "muscles": [
+        "triceps"
+      ],
+      "bones": [],
+      "joints": [],
+      "exercises": []
+    },
+    "lateral_epicondylalgia": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "exercises": []
+    }
+  },
+  "exercises": {
+    "Dorsiflexion de cheville": {
+      "muscles": [],
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "ankle"
+      ],
+      "pathologies": []
+    },
+    "Contraction isométrique du quadriceps": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": []
+    },
+    "Pont fessier": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": []
+    },
+    "Rotation externe de l'épaule avec résistance": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": []
+    },
+    "Équilibre unipodal": {
+      "muscles": [],
+      "bones": [
+        "fibula"
+      ],
+      "joints": [],
+      "pathologies": []
+    },
+    "Assis-debout": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": []
+    }
+  },
+  "courses": {
+    "Anatomie humaine — Introduction": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "Système squelettique appendiculaire — MMSS": {
+      "muscles": [],
+      "bones": [
+        "scapula"
+      ],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "Fondements de la kinésithérapie — Concepts généraux": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "Biomécanique — Introduction": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "Biomécanique — Analyse du mouvement et magnitudes": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "Physiologie humaine — Bloc I": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    },
+    "Physiologie cellulaire — Synthèse des protéines et division": {
+      "muscles": [],
+      "bones": [],
+      "joints": [],
+      "pathologies": [],
+      "exercises": []
+    }
+  }
+}

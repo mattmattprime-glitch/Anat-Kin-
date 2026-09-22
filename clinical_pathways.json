@@ -1,0 +1,234 @@
+{
+  "shoulder": {
+    "label": "Épaule — articulation gléno-humérale",
+    "joint": "glenohumeral",
+    "movements": [
+      "flexion_epaule",
+      "abduction_epaule",
+      "rotation_mediale_epaule",
+      "rotation_laterale_epaule"
+    ],
+    "ligaments": [
+      "ligament gléno-huméral supérieur",
+      "ligament gléno-huméral moyen",
+      "ligament gléno-huméral inférieur",
+      "ligament coraco-huméral"
+    ],
+    "muscles": [
+      "Deltoïde antérieur",
+      "Deltoïde moyen",
+      "Supra-épineux",
+      "Infra-épineux",
+      "Subscapulaire",
+      "Petit rond",
+      "Grand pectoral",
+      "Grand dorsal"
+    ],
+    "clinical": [
+      "douleur d'épaule",
+      "raideur gléno-humérale",
+      "déficit de contrôle scapulo-huméral"
+    ],
+    "exercises": [
+      "élévation active assistée",
+      "rotation externe avec résistance légère",
+      "travail de contrôle scapulaire",
+      "renforcement progressif du deltoïde et de la coiffe"
+    ],
+    "questions": [
+      [
+        "Quel muscle initie principalement l'abduction de l'épaule ?",
+        "Supra-épineux"
+      ],
+      [
+        "Quel muscle est un rotateur latéral de l'épaule ?",
+        "Infra-épineux"
+      ],
+      [
+        "Dans quel plan se fait principalement l'abduction ?",
+        "Frontal"
+      ]
+    ]
+  },
+  "elbow": {
+    "label": "Coude",
+    "joint": "elbow",
+    "movements": [
+      "flexion_coude",
+      "extension_coude"
+    ],
+    "ligaments": [
+      "ligament collatéral ulnaire",
+      "ligament collatéral radial",
+      "ligament annulaire du radius"
+    ],
+    "muscles": [
+      "Biceps brachial",
+      "Brachial",
+      "Brachio-radial",
+      "Triceps brachial",
+      "Anconé"
+    ],
+    "clinical": [
+      "raideur post-traumatique",
+      "déficit de force en flexion/extension",
+      "instabilité ligamentaire"
+    ],
+    "exercises": [
+      "mobilité active progressive",
+      "flexion du coude avec résistance graduée",
+      "extension du coude avec résistance graduée",
+      "travail fonctionnel de poussée et de tirage"
+    ],
+    "questions": [
+      [
+        "Quel est le principal extenseur du coude ?",
+        "Triceps brachial"
+      ],
+      [
+        "Quel muscle participe fortement à la flexion du coude ?",
+        "Brachial"
+      ],
+      [
+        "Le coude réalise principalement flexion-extension dans quel plan ?",
+        "Sagittal"
+      ]
+    ]
+  },
+  "hip": {
+    "label": "Hanche — articulation coxo-fémorale",
+    "joint": "hip",
+    "movements": [
+      "flexion_hanche",
+      "extension_hanche"
+    ],
+    "ligaments": [
+      "ligament ilio-fémoral",
+      "ligament pubo-fémoral",
+      "ligament ischio-fémoral"
+    ],
+    "muscles": [
+      "Ilio-psoas",
+      "Droit fémoral",
+      "Grand fessier",
+      "Ischio-jambiers",
+      "Moyen fessier"
+    ],
+    "clinical": [
+      "déficit de force des extenseurs",
+      "trouble du contrôle frontal du bassin",
+      "récupération fonctionnelle après chirurgie ou traumatisme"
+    ],
+    "exercises": [
+      "pont fessier",
+      "extension de hanche en chaîne ouverte",
+      "abduction de hanche avec résistance",
+      "assis-debout"
+    ],
+    "questions": [
+      [
+        "Quel muscle est un puissant extenseur de hanche ?",
+        "Grand fessier"
+      ],
+      [
+        "Quel groupe musculaire contribue à l'extension de hanche ?",
+        "Ischio-jambiers"
+      ],
+      [
+        "Quel plan correspond principalement à la flexion-extension de hanche ?",
+        "Sagittal"
+      ]
+    ]
+  },
+  "knee": {
+    "label": "Genou",
+    "joint": "knee",
+    "movements": [
+      "flexion_genou",
+      "extension_genou"
+    ],
+    "ligaments": [
+      "ACL",
+      "PCL",
+      "MCL",
+      "LCL"
+    ],
+    "muscles": [
+      "Quadriceps fémoral",
+      "Ischio-jambiers",
+      "Gastrocnémien",
+      "Poplité"
+    ],
+    "clinical": [
+      "rééducation après entorse",
+      "déficit du quadriceps",
+      "instabilité ligamentaire",
+      "récupération fonctionnelle après chirurgie"
+    ],
+    "exercises": [
+      "contractions isométriques du quadriceps",
+      "élévation de jambe tendue",
+      "chaîne fermée progressive",
+      "travail d'équilibre et contrôle du genou"
+    ],
+    "questions": [
+      [
+        "Quel groupe musculaire réalise principalement l'extension du genou ?",
+        "Quadriceps fémoral"
+      ],
+      [
+        "Quel ligament est classiquement appelé LCA ?",
+        "ACL"
+      ],
+      [
+        "Dans quel plan se fait principalement la flexion-extension du genou ?",
+        "Sagittal"
+      ]
+    ]
+  },
+  "ankle": {
+    "label": "Cheville — articulation talo-crurale",
+    "joint": "ankle",
+    "movements": [
+      "dorsiflexion_cheville",
+      "flexion_plantaire_cheville"
+    ],
+    "ligaments": [
+      "ATFL",
+      "ligament calcanéo-fibulaire",
+      "ligament deltoïde"
+    ],
+    "muscles": [
+      "Tibial antérieur",
+      "Gastrocnémien",
+      "Soléaire",
+      "Tibial postérieur",
+      "Fibulaires"
+    ],
+    "clinical": [
+      "entorse latérale",
+      "déficit de dorsiflexion",
+      "déficit de contrôle unipodal"
+    ],
+    "exercises": [
+      "mobilité en dorsiflexion",
+      "élévations sur pointes",
+      "renforcement des fibulaires",
+      "équilibre unipodal progressif"
+    ],
+    "questions": [
+      [
+        "Quel muscle est un dorsiflexeur majeur ?",
+        "Tibial antérieur"
+      ],
+      [
+        "Quels muscles participent fortement à la flexion plantaire ?",
+        "Gastrocnémien et soléaire"
+      ],
+      [
+        "Quel ligament est fréquemment concerné dans l'entorse latérale ?",
+        "ATFL"
+      ]
+    ]
+  }
+}

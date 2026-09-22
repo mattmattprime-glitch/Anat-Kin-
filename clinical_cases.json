@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ankle_sprain",
+    "title": "Entorse latérale de cheville",
+    "region": "Cheville",
+    "phase": "J10 — récupération précoce",
+    "findings": [
+      "douleur à la marche",
+      "œdème",
+      "mobilité diminuée"
+    ],
+    "goals": [
+      "récupérer la dorsiflexion",
+      "restaurer la mobilité",
+      "renforcer les stabilisateurs",
+      "réentraîner l'équilibre"
+    ],
+    "tests": [
+      "amplitude de dorsiflexion",
+      "appui unipodal selon tolérance",
+      "force des fibulaires",
+      "contrôle dynamique"
+    ],
+    "progression": [
+      "mobilité active",
+      "renforcement progressif",
+      "proprioception",
+      "tâches fonctionnelles"
+    ],
+    "warning": "La progression doit rester adaptée à la douleur, à la stabilité et aux consignes médicales."
+  },
+  {
+    "id": "knee_acl",
+    "title": "Rééducation après lésion du LCA",
+    "region": "Genou",
+    "phase": "phase à individualiser",
+    "findings": [
+      "déficit d'extension ou flexion",
+      "faiblesse du quadriceps",
+      "déficit de contrôle du membre inférieur"
+    ],
+    "goals": [
+      "récupérer les amplitudes",
+      "restaurer la force",
+      "améliorer le contrôle neuromusculaire",
+      "reprendre progressivement les tâches fonctionnelles"
+    ],
+    "tests": [
+      "amplitude",
+      "force quadriceps",
+      "contrôle unipodal",
+      "qualité du mouvement"
+    ],
+    "progression": [
+      "mobilité",
+      "isométriques puis renforcement",
+      "chaîne fermée progressive",
+      "proprioception et tâches fonctionnelles"
+    ],
+    "warning": "Après chirurgie, respecter le protocole du chirurgien et du kinésithérapeute."
+  },
+  {
+    "id": "shoulder_stiffness",
+    "title": "Raideur d'épaule",
+    "region": "Épaule",
+    "phase": "évaluation initiale",
+    "findings": [
+      "élévation limitée",
+      "rotation limitée",
+      "gêne fonctionnelle"
+    ],
+    "goals": [
+      "identifier les amplitudes limitées",
+      "réduire la gêne",
+      "récupérer progressivement la mobilité",
+      "restaurer la fonction"
+    ],
+    "tests": [
+      "flexion",
+      "abduction",
+      "rotations",
+      "observation du rythme scapulo-huméral"
+    ],
+    "progression": [
+      "mobilité active assistée",
+      "mobilité active",
+      "contrôle scapulaire",
+      "renforcement progressif"
+    ],
+    "warning": "La cause de la raideur doit guider la prise en charge ; éviter de forcer une articulation douloureuse sans indication."
+  }
+]

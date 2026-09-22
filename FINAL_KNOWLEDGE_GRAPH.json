@@ -1,0 +1,1491 @@
+{
+  "muscles": {
+    "deltoide": {
+      "bones": [
+        "scapula",
+        "Clavicule"
+      ],
+      "nerves": [
+        "Nerf axillaire"
+      ]
+    },
+    "supraspinatus": {
+      "bones": [
+        "scapula"
+      ],
+      "nerves": [
+        "Nerf suprascapulaire"
+      ]
+    },
+    "infraspinatus": {
+      "bones": [
+        "scapula"
+      ],
+      "nerves": [
+        "Nerf suprascapulaire"
+      ]
+    },
+    "teres_minor": {
+      "bones": [
+        "scapula"
+      ],
+      "nerves": [
+        "Nerf axillaire"
+      ]
+    },
+    "subscapularis": {
+      "bones": [
+        "scapula"
+      ]
+    },
+    "pectoralis_major": {
+      "bones": [
+        "sternum",
+        "Clavicule"
+      ]
+    },
+    "latissimus_dorsi": {
+      "bones": [
+        "Côtes"
+      ]
+    },
+    "biceps": {
+      "bones": [
+        "scapula"
+      ],
+      "joints": [
+        "Coude"
+      ],
+      "moves": [
+        "Flexion du coude",
+        "Supination"
+      ]
+    },
+    "brachialis": {
+      "bones": [
+        "ulna",
+        "Humérus"
+      ],
+      "joints": [
+        "Coude"
+      ]
+    },
+    "triceps": {
+      "bones": [
+        "scapula",
+        "Humérus"
+      ],
+      "joints": [
+        "Coude"
+      ],
+      "nerves": [
+        "Nerf radial"
+      ]
+    },
+    "brachioradialis": {
+      "bones": [
+        "radius"
+      ],
+      "joints": [
+        "Coude"
+      ],
+      "nerves": [
+        "Nerf radial"
+      ],
+      "moves": [
+        "Flexion du coude"
+      ]
+    },
+    "pronator_teres": {
+      "bones": [
+        "radius",
+        "ulna"
+      ],
+      "joints": [
+        "Coude"
+      ],
+      "nerves": [
+        "Nerf médian"
+      ],
+      "moves": [
+        "Pronation"
+      ]
+    },
+    "flexor_carpi_radialis": {
+      "joints": [
+        "Poignet"
+      ],
+      "nerves": [
+        "Nerf médian"
+      ]
+    },
+    "extensor_carpi_radialis": {
+      "bones": [
+        "Humérus"
+      ],
+      "joints": [
+        "Poignet"
+      ],
+      "nerves": [
+        "Nerf radial"
+      ]
+    },
+    "iliopsoas": {
+      "joints": [
+        "Hanche"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ]
+    },
+    "gluteus_maximus": {
+      "bones": [
+        "tibia",
+        "sacrum",
+        "coccyx",
+        "Fémur"
+      ],
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "gluteus_medius": {},
+    "tensor_fasciae_latae": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "rectus_femoris": {
+      "bones": [
+        "patella",
+        "tibia"
+      ],
+      "joints": [
+        "Hanche",
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ],
+      "moves": [
+        "Extension du genou"
+      ]
+    },
+    "vastus_lateralis": {
+      "bones": [
+        "patella",
+        "Fémur"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ],
+      "moves": [
+        "Extension du genou"
+      ]
+    },
+    "vastus_medialis": {
+      "bones": [
+        "patella",
+        "Fémur"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ],
+      "moves": [
+        "Extension du genou"
+      ]
+    },
+    "sartorius": {
+      "joints": [
+        "Hanche",
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ]
+    },
+    "adductor_longus": {
+      "joints": [
+        "Hanche"
+      ],
+      "nerves": [
+        "Nerf obturateur"
+      ]
+    },
+    "gracilis": {
+      "joints": [
+        "Hanche",
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf obturateur"
+      ]
+    },
+    "biceps_femoris": {
+      "bones": [
+        "tibia",
+        "fibula",
+        "Fémur"
+      ],
+      "joints": [
+        "Hanche",
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ]
+    },
+    "semitendinosus": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "Hanche",
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ]
+    },
+    "semimembranosus": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "Hanche",
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ]
+    },
+    "tibialis_anterior": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire profond"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "gastrocnemius": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "soleus": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "fibularis_longus": {
+      "bones": [
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire superficiel"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "fibularis_brevis": {
+      "bones": [
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire superficiel"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "tibialis_posterior": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "extensor_hallucis_longus": {
+      "bones": [
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire profond"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "extensor_digitorum_longus": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire profond"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "masseter": {},
+    "temporalis": {},
+    "sternocleidomastoid": {
+      "bones": [
+        "Clavicule"
+      ],
+      "joints": [
+        "cervical"
+      ]
+    },
+    "trapezius": {
+      "bones": [
+        "scapula",
+        "Clavicule"
+      ],
+      "joints": [
+        "cervical"
+      ]
+    },
+    "rhomboid_major": {
+      "bones": [
+        "scapula"
+      ]
+    },
+    "serratus_anterior": {
+      "bones": [
+        "scapula",
+        "Côtes"
+      ]
+    },
+    "rectus_abdominis": {
+      "moves": [
+        "Flexion du tronc"
+      ]
+    },
+    "erector_spinae": {
+      "bones": [
+        "sacrum",
+        "Côtes"
+      ]
+    },
+    "piriformis": {
+      "bones": [
+        "sacrum"
+      ],
+      "joints": [
+        "Hanche"
+      ],
+      "moves": [
+        "Abduction de hanche"
+      ]
+    },
+    "popliteus": {
+      "bones": [
+        "tibia",
+        "Fémur"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ]
+    },
+    "plantaris": {
+      "bones": [
+        "tibia",
+        "Fémur"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "extensor_carpi_ulnaris": {
+      "bones": [
+        "ulna"
+      ],
+      "joints": [
+        "Poignet"
+      ],
+      "nerves": [
+        "Nerf radial"
+      ]
+    },
+    "Deltoïde": {
+      "bones": [
+        "scapula",
+        "Clavicule",
+        "Humérus"
+      ],
+      "nerves": [
+        "Nerf axillaire"
+      ]
+    },
+    "Teres minor": {
+      "bones": [
+        "scapula"
+      ],
+      "nerves": [
+        "Nerf axillaire"
+      ]
+    },
+    "Pectoralis major": {
+      "bones": [
+        "sternum",
+        "Clavicule",
+        "Humérus"
+      ]
+    },
+    "Latissimus dorsi": {
+      "bones": [
+        "Humérus",
+        "Côtes"
+      ]
+    },
+    "Biceps brachii": {
+      "joints": [
+        "Coude"
+      ],
+      "nerves": [
+        "Nerf musculocutané"
+      ],
+      "moves": [
+        "Flexion du coude",
+        "Supination"
+      ]
+    },
+    "Triceps brachii": {
+      "bones": [
+        "ulna",
+        "Humérus"
+      ],
+      "joints": [
+        "Coude"
+      ],
+      "nerves": [
+        "Nerf radial"
+      ]
+    },
+    "Pronator teres": {
+      "bones": [
+        "radius"
+      ],
+      "joints": [
+        "Coude"
+      ],
+      "nerves": [
+        "Nerf médian"
+      ],
+      "moves": [
+        "Flexion du coude",
+        "Pronation"
+      ]
+    },
+    "Supinator": {
+      "bones": [
+        "radius",
+        "ulna"
+      ],
+      "joints": [
+        "Coude"
+      ],
+      "nerves": [
+        "Nerf radial"
+      ],
+      "moves": [
+        "Supination"
+      ]
+    },
+    "Flexor carpi radialis": {
+      "joints": [
+        "Poignet"
+      ],
+      "nerves": [
+        "Nerf médian"
+      ]
+    },
+    "Flexor carpi ulnaris": {
+      "bones": [
+        "ulna"
+      ],
+      "joints": [
+        "Poignet"
+      ],
+      "nerves": [
+        "Nerf ulnaire"
+      ]
+    },
+    "Extensor carpi radialis longus": {
+      "joints": [
+        "Poignet"
+      ],
+      "nerves": [
+        "Nerf radial"
+      ]
+    },
+    "Extensor carpi radialis brevis": {
+      "joints": [
+        "Poignet"
+      ],
+      "nerves": [
+        "Nerf radial"
+      ],
+      "paths": [
+        "Épicondylalgie latérale"
+      ]
+    },
+    "Extensor digitorum": {
+      "joints": [
+        "Poignet"
+      ]
+    },
+    "Gluteus maximus": {
+      "bones": [
+        "tibia",
+        "sacrum",
+        "coccyx"
+      ],
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "Gluteus medius": {
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "Gluteus minimus": {
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "Tensor fasciae latae": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "Adductor longus": {
+      "joints": [
+        "Hanche"
+      ],
+      "nerves": [
+        "Nerf obturateur"
+      ]
+    },
+    "Adductor magnus": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "Hanche"
+      ],
+      "nerves": [
+        "Nerf obturateur"
+      ]
+    },
+    "Rectus femoris": {
+      "bones": [
+        "patella",
+        "tibia"
+      ],
+      "joints": [
+        "Hanche",
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ],
+      "moves": [
+        "Extension du genou"
+      ]
+    },
+    "Vastus medialis": {
+      "bones": [
+        "patella",
+        "tibia"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ],
+      "moves": [
+        "Extension du genou"
+      ]
+    },
+    "Vastus lateralis": {
+      "bones": [
+        "patella",
+        "tibia"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ],
+      "moves": [
+        "Extension du genou"
+      ]
+    },
+    "Vastus intermedius": {
+      "bones": [
+        "patella",
+        "tibia",
+        "Fémur"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf fémoral"
+      ],
+      "moves": [
+        "Extension du genou"
+      ]
+    },
+    "Biceps femoris": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "joints": [
+        "Hanche",
+        "Genou"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ]
+    },
+    "Tibialis anterior": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire profond"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "Tibialis posterior": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "Fibularis longus": {
+      "bones": [
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire superficiel"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "Fibularis brevis": {
+      "bones": [
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire superficiel"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "Extensor hallucis longus": {
+      "bones": [
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire profond"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "Flexor hallucis longus": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "Serratus anterior": {
+      "bones": [
+        "scapula",
+        "Côtes"
+      ]
+    },
+    "Rectus abdominis": {
+      "moves": [
+        "Flexion du tronc"
+      ]
+    },
+    "Erector spinae": {
+      "bones": [
+        "sacrum",
+        "Côtes"
+      ]
+    },
+    "Pronator quadratus": {
+      "bones": [
+        "radius",
+        "ulna"
+      ],
+      "joints": [
+        "Radio-ulnaire distale"
+      ],
+      "nerves": [
+        "Nerf médian"
+      ],
+      "moves": [
+        "Pronation"
+      ]
+    },
+    "Obturator internus": {
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "Quadratus femoris": {
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "Flexor digitorum longus": {
+      "bones": [
+        "tibia"
+      ],
+      "nerves": [
+        "Nerf tibial"
+      ],
+      "moves": [
+        "Flexion plantaire"
+      ]
+    },
+    "Extensor digitorum longus": {
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "nerves": [
+        "Nerf fibulaire profond"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    }
+  },
+  "bones": {
+    "scapula": {},
+    "clavicle": {},
+    "humerus": {},
+    "radius": {},
+    "ulna": {},
+    "pelvis": {},
+    "femur": {},
+    "patella": {
+      "joints": [
+        "Genou"
+      ]
+    },
+    "tibia": {},
+    "fibula": {},
+    "talus": {},
+    "calcaneus": {},
+    "vertebra": {},
+    "sternum": {},
+    "rib": {},
+    "mandible": {},
+    "skull": {},
+    "sacrum": {},
+    "coccyx": {},
+    "carpals": {},
+    "metacarpals": {},
+    "phalanges_hand": {},
+    "tarsals": {},
+    "metatarsals": {},
+    "phalanges_foot": {},
+    "Clavicule": {},
+    "Humérus": {
+      "joints": [
+        "Coude"
+      ]
+    },
+    "Fémur": {
+      "joints": [
+        "Hanche",
+        "Genou"
+      ]
+    },
+    "Côtes": {},
+    "Colonne cervicale": {
+      "joints": [
+        "cervical"
+      ]
+    },
+    "Colonne thoracique": {},
+    "Colonne lombaire": {},
+    "Os coxal": {
+      "joints": [
+        "Hanche"
+      ]
+    }
+  },
+  "joints": {
+    "glenohumeral": {},
+    "elbow": {
+      "bones": [
+        "ulna"
+      ],
+      "moves": [
+        "Supination"
+      ]
+    },
+    "wrist": {
+      "bones": [
+        "ulna"
+      ]
+    },
+    "hip": {},
+    "knee": {},
+    "ankle": {
+      "moves": [
+        "Flexion plantaire",
+        "Dorsiflexion"
+      ]
+    },
+    "subtalar": {
+      "bones": [
+        "rib"
+      ]
+    },
+    "cervical": {},
+    "atm": {},
+    "cervical_upper": {},
+    "radioulnar": {
+      "bones": [
+        "ulna"
+      ],
+      "moves": [
+        "Pronation",
+        "Supination"
+      ]
+    },
+    "thumb_cmc": {},
+    "mtp": {},
+    "Glenohumérale": {},
+    "Acromioclaviculaire": {
+      "bones": [
+        "Clavicule"
+      ]
+    },
+    "Sterno-claviculaire": {
+      "bones": [
+        "Clavicule"
+      ]
+    },
+    "Radio-ulnaire proximale": {
+      "bones": [
+        "ulna"
+      ],
+      "moves": [
+        "Pronation",
+        "Supination"
+      ]
+    },
+    "Radio-ulnaire distale": {
+      "bones": [
+        "radius",
+        "ulna"
+      ],
+      "moves": [
+        "Pronation",
+        "Supination"
+      ]
+    },
+    "Carpo-métacarpienne du pouce": {},
+    "Métatarso-phalangienne": {},
+    "Coude": {
+      "bones": [
+        "ulna"
+      ],
+      "moves": [
+        "Pronation",
+        "Supination"
+      ]
+    },
+    "Poignet": {
+      "bones": [
+        "radius"
+      ]
+    },
+    "Hanche": {},
+    "Genou": {
+      "bones": [
+        "patella",
+        "tibia",
+        "Fémur"
+      ]
+    },
+    "Cheville talo-crurale": {
+      "muscles": [
+        "Deltoïde"
+      ],
+      "bones": [
+        "tibia",
+        "fibula",
+        "talus"
+      ],
+      "moves": [
+        "Flexion plantaire",
+        "Dorsiflexion"
+      ]
+    },
+    "Sous-talienne": {
+      "bones": [
+        "talus"
+      ]
+    }
+  },
+  "nerves": {
+    "Nerf musculocutané": {
+      "muscles": [
+        "biceps",
+        "brachialis",
+        "Biceps brachii"
+      ],
+      "joints": [
+        "Coude"
+      ],
+      "moves": [
+        "Flexion du coude"
+      ]
+    },
+    "Nerf radial": {
+      "muscles": [
+        "triceps"
+      ],
+      "joints": [
+        "Poignet"
+      ]
+    },
+    "Nerf médian": {},
+    "Nerf ulnaire": {
+      "muscles": [
+        "Flexor carpi ulnaris"
+      ],
+      "bones": [
+        "ulna"
+      ],
+      "joints": [
+        "Coude",
+        "Poignet"
+      ]
+    },
+    "Nerf axillaire": {
+      "muscles": [
+        "Deltoïde",
+        "Teres minor"
+      ]
+    },
+    "Nerf suprascapulaire": {
+      "muscles": [
+        "supraspinatus",
+        "infraspinatus"
+      ],
+      "bones": [
+        "scapula"
+      ]
+    },
+    "Nerf fémoral": {
+      "muscles": [
+        "sartorius"
+      ],
+      "bones": [
+        "patella"
+      ],
+      "joints": [
+        "Genou"
+      ],
+      "moves": [
+        "Extension du genou"
+      ]
+    },
+    "Nerf obturateur": {},
+    "Nerf sciatique": {
+      "bones": [
+        "tibia"
+      ]
+    },
+    "Nerf tibial": {
+      "muscles": [
+        "triceps"
+      ],
+      "bones": [
+        "tibia"
+      ]
+    },
+    "Nerf fibulaire commun": {
+      "bones": [
+        "fibula"
+      ]
+    },
+    "Nerf fibulaire profond": {
+      "muscles": [
+        "Tibialis anterior"
+      ],
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "Nerf fibulaire superficiel": {
+      "muscles": [
+        "Fibularis longus"
+      ],
+      "bones": [
+        "fibula"
+      ]
+    }
+  },
+  "ligaments": {
+    "acl": {
+      "bones": [
+        "tibia",
+        "rib"
+      ],
+      "joints": [
+        "Genou"
+      ]
+    },
+    "pcl": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "Genou"
+      ]
+    },
+    "mcl": {
+      "bones": [
+        "tibia",
+        "Fémur"
+      ],
+      "joints": [
+        "Genou"
+      ]
+    },
+    "lcl": {
+      "bones": [
+        "fibula",
+        "rib",
+        "Fémur"
+      ],
+      "joints": [
+        "Genou"
+      ]
+    },
+    "atfl": {
+      "bones": [
+        "fibula",
+        "talus"
+      ]
+    },
+    "deltoid_ankle": {
+      "muscles": [
+        "deltoide",
+        "Deltoïde"
+      ],
+      "bones": [
+        "talus"
+      ],
+      "joints": [
+        "ankle"
+      ]
+    }
+  },
+  "paths": {
+    "Entorse latérale de cheville": {
+      "muscles": [
+        "Tibialis anterior",
+        "Fibularis longus",
+        "Fibularis brevis"
+      ],
+      "bones": [
+        "tibia",
+        "fibula"
+      ],
+      "ligaments": [
+        "atfl"
+      ],
+      "exercises": [
+        "Équilibre unipodal",
+        "Élévation sur pointes",
+        "Dorsiflexion élastique"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "Rupture du LCA — rééducation fonctionnelle": {
+      "joints": [
+        "Genou"
+      ],
+      "ligaments": [
+        "acl"
+      ],
+      "exercises": [
+        "Équilibre unipodal",
+        "Squat assisté",
+        "Step-up"
+      ]
+    },
+    "Raideur d'épaule": {
+      "muscles": [
+        "Deltoïde"
+      ],
+      "bones": [
+        "scapula"
+      ],
+      "joints": [
+        "Glenohumérale"
+      ],
+      "exercises": [
+        "Rotation externe d'épaule élastique",
+        "Rowing élastique"
+      ]
+    },
+    "Cervicalgie mécanique": {
+      "muscles": [
+        "sternocleidomastoid",
+        "trapezius",
+        "Erector spinae"
+      ],
+      "bones": [
+        "scapula"
+      ],
+      "joints": [
+        "cervical"
+      ],
+      "exercises": [
+        "Rowing élastique"
+      ]
+    },
+    "Tendinopathie d'Achille": {
+      "muscles": [
+        "triceps",
+        "gastrocnemius",
+        "soleus"
+      ],
+      "exercises": [
+        "Élévation sur pointes"
+      ]
+    },
+    "Épicondylalgie latérale": {
+      "muscles": [
+        "Extensor carpi radialis brevis",
+        "Extensor digitorum"
+      ],
+      "joints": [
+        "Coude",
+        "Poignet"
+      ]
+    }
+  },
+  "exercises": {
+    "Dorsiflexion de cheville": {
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "ankle",
+        "Genou"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "Contraction isométrique du quadriceps": {
+      "joints": [
+        "Genou"
+      ]
+    },
+    "Pont fessier": {
+      "joints": [
+        "Hanche",
+        "Genou"
+      ]
+    },
+    "Rotation externe de l'épaule avec résistance": {
+      "joints": [
+        "Coude"
+      ]
+    },
+    "Équilibre unipodal": {
+      "bones": [
+        "fibula"
+      ]
+    },
+    "Assis-debout": {
+      "joints": [
+        "Genou"
+      ]
+    },
+    "Squat assisté": {
+      "muscles": [
+        "Gluteus maximus",
+        "Gluteus medius"
+      ],
+      "joints": [
+        "Genou"
+      ]
+    },
+    "Step-up": {
+      "muscles": [
+        "Gluteus maximus",
+        "Gluteus medius"
+      ],
+      "joints": [
+        "Hanche",
+        "Genou"
+      ]
+    },
+    "Élévation sur pointes": {
+      "muscles": [
+        "triceps",
+        "gastrocnemius",
+        "soleus"
+      ]
+    },
+    "Dorsiflexion élastique": {
+      "muscles": [
+        "Tibialis anterior"
+      ],
+      "bones": [
+        "tibia"
+      ],
+      "joints": [
+        "Hanche"
+      ],
+      "moves": [
+        "Dorsiflexion"
+      ]
+    },
+    "Rotation externe d'épaule élastique": {
+      "muscles": [
+        "infraspinatus",
+        "Teres minor"
+      ],
+      "bones": [
+        "scapula"
+      ],
+      "joints": [
+        "Coude"
+      ]
+    },
+    "Rowing élastique": {
+      "muscles": [
+        "trapezius",
+        "Latissimus dorsi"
+      ],
+      "joints": [
+        "Coude"
+      ]
+    }
+  },
+  "assessments": {
+    "Bilan de cheville post-entorse": {},
+    "Bilan du genou": {
+      "joints": [
+        "Genou"
+      ]
+    },
+    "Bilan d'épaule": {
+      "bones": [
+        "scapula"
+      ]
+    },
+    "Bilan cervical": {
+      "joints": [
+        "cervical"
+      ]
+    }
+  },
+  "moves": {
+    "Flexion du coude": {
+      "muscles": [
+        "biceps",
+        "brachialis",
+        "triceps",
+        "Biceps brachii",
+        "Triceps brachii"
+      ],
+      "joints": [
+        "Coude"
+      ]
+    },
+    "Extension du genou": {
+      "joints": [
+        "Genou"
+      ]
+    },
+    "Flexion plantaire": {
+      "muscles": [
+        "gastrocnemius",
+        "soleus",
+        "Tibialis anterior"
+      ],
+      "bones": [
+        "tibia"
+      ]
+    },
+    "Dorsiflexion": {
+      "muscles": [
+        "triceps",
+        "Tibialis anterior"
+      ],
+      "bones": [
+        "tibia"
+      ]
+    },
+    "Abduction de hanche": {
+      "muscles": [
+        "Gluteus medius",
+        "Gluteus minimus"
+      ],
+      "joints": [
+        "Hanche"
+      ]
+    },
+    "Rotation médiale de l'épaule": {
+      "muscles": [
+        "infraspinatus",
+        "subscapularis",
+        "Teres minor",
+        "Pectoralis major"
+      ],
+      "bones": [
+        "scapula"
+      ],
+      "joints": [
+        "Glenohumérale"
+      ]
+    },
+    "Pronation": {
+      "muscles": [
+        "biceps",
+        "Biceps brachii",
+        "Pronator teres",
+        "Supinator",
+        "Pronator quadratus"
+      ],
+      "bones": [
+        "ulna"
+      ]
+    },
+    "Supination": {
+      "muscles": [
+        "biceps",
+        "Biceps brachii",
+        "Supinator"
+      ],
+      "bones": [
+        "ulna"
+      ]
+    },
+    "Rotation cervicale": {
+      "muscles": [
+        "sternocleidomastoid"
+      ],
+      "joints": [
+        "cervical"
+      ]
+    },
+    "Flexion du tronc": {
+      "muscles": [
+        "Rectus abdominis",
+        "Erector spinae"
+      ]
+    }
+  },
+  "courses": {
+    "Anatomie humaine — Introduction": {},
+    "Système squelettique appendiculaire — MMSS": {
+      "bones": [
+        "scapula",
+        "Clavicule"
+      ]
+    },
+    "Fondements de la kinésithérapie — Concepts généraux": {},
+    "Biomécanique — Introduction": {},
+    "Biomécanique — Analyse du mouvement et magnitudes": {},
+    "Physiologie humaine — Bloc I": {},
+    "Physiologie cellulaire — Synthèse des protéines et division": {}
+  }
+}

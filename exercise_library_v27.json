@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ankle_dorsiflexion",
+    "title": "Dorsiflexion de cheville",
+    "region": "Cheville",
+    "goal": "Mobilité",
+    "steps": [
+      "Position confortable et stable",
+      "Amener progressivement le genou vers l'avant en gardant le pied contrôlé",
+      "Revenir lentement",
+      "Comparer avec le côté opposé si pertinent"
+    ],
+    "dose": "Progression individualisée selon tolérance et objectif",
+    "muscles": [
+      "Tibial antérieur"
+    ],
+    "watch": [
+      "douleur aiguë",
+      "gonflement qui augmente",
+      "perte de contrôle"
+    ]
+  },
+  {
+    "id": "quad_isometric",
+    "title": "Contraction isométrique du quadriceps",
+    "region": "Genou",
+    "goal": "Activation / force",
+    "steps": [
+      "Installer le membre confortablement",
+      "Contracter le quadriceps en cherchant à stabiliser le genou",
+      "Maintenir brièvement puis relâcher",
+      "Répéter selon le programme établi"
+    ],
+    "dose": "Volume individualisé ; priorité à une exécution contrôlée",
+    "muscles": [
+      "Quadriceps fémoral"
+    ],
+    "watch": [
+      "douleur inhabituelle",
+      "augmentation nette de l'épanchement",
+      "perte de fonction"
+    ]
+  },
+  {
+    "id": "bridge",
+    "title": "Pont fessier",
+    "region": "Hanche",
+    "goal": "Extension de hanche / chaîne postérieure",
+    "steps": [
+      "Allongé sur le dos, genoux fléchis",
+      "Engager la sangle abdominale et les extenseurs de hanche",
+      "Soulever le bassin sans compenser excessivement par le rachis",
+      "Redescendre contrôlé"
+    ],
+    "dose": "Progression selon qualité du mouvement et tolérance",
+    "muscles": [
+      "Grand fessier",
+      "Ischio-jambiers"
+    ],
+    "watch": [
+      "douleur lombaire importante",
+      "douleur aiguë de hanche"
+    ]
+  },
+  {
+    "id": "shoulder_external_rotation",
+    "title": "Rotation externe de l'épaule avec résistance",
+    "region": "Épaule",
+    "goal": "Renforcement / contrôle",
+    "steps": [
+      "Coude proche du tronc si adapté",
+      "Effectuer une rotation externe lente contre une résistance légère",
+      "Maintenir un mouvement contrôlé",
+      "Revenir sans à-coup"
+    ],
+    "dose": "Résistance et volume progressifs selon bilan",
+    "muscles": [
+      "Infra-épineux",
+      "Petit rond"
+    ],
+    "watch": [
+      "douleur aiguë",
+      "compensation importante",
+      "perte brutale de force"
+    ]
+  },
+  {
+    "id": "single_leg_balance",
+    "title": "Équilibre unipodal",
+    "region": "Membre inférieur",
+    "goal": "Proprioception / contrôle",
+    "steps": [
+      "Se placer près d'un support stable",
+      "Décoller progressivement un pied",
+      "Maintenir l'alignement du membre inférieur",
+      "Augmenter la difficulté seulement si le contrôle est suffisant"
+    ],
+    "dose": "Progression par durée, perturbations ou tâche fonctionnelle",
+    "muscles": [
+      "Fibulaires",
+      "Moyen fessier",
+      "Quadriceps"
+    ],
+    "watch": [
+      "instabilité majeure",
+      "vertiges",
+      "douleur importante"
+    ]
+  },
+  {
+    "id": "sit_to_stand",
+    "title": "Assis-debout",
+    "region": "Membre inférieur",
+    "goal": "Fonctionnel / force",
+    "steps": [
+      "Placer les pieds de façon stable",
+      "Incliner légèrement le tronc",
+      "Pousser dans le sol pour se relever",
+      "Contrôler la descente"
+    ],
+    "dose": "Adapter hauteur, assistance et charge au niveau fonctionnel",
+    "muscles": [
+      "Quadriceps fémoral",
+      "Grand fessier"
+    ],
+    "watch": [
+      "douleur importante",
+      "déviation incontrôlée du genou",
+      "vertiges"
+    ]
+  }
+]

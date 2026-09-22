@@ -1,0 +1,91 @@
+[
+  {
+    "id": "anatomie-intro",
+    "title": "Anatomie humaine — Introduction",
+    "keywords": [
+      "position anatomique",
+      "plans",
+      "axes",
+      "anatomie",
+      "articulation",
+      "mouvement"
+    ]
+  },
+  {
+    "id": "squelette-mmss",
+    "title": "Système squelettique appendiculaire — MMSS",
+    "keywords": [
+      "humérus",
+      "radius",
+      "ulna",
+      "scapula",
+      "clavicule",
+      "carpe",
+      "métacarpe",
+      "phalange",
+      "épaule",
+      "coude",
+      "poignet"
+    ]
+  },
+  {
+    "id": "fondements-kine",
+    "title": "Fondements de la kinésithérapie — Concepts généraux",
+    "keywords": [
+      "kinésithérapie",
+      "kinesis",
+      "mouvement",
+      "rééducation",
+      "agent",
+      "thérapeutique"
+    ]
+  },
+  {
+    "id": "biomeca-intro",
+    "title": "Biomécanique — Introduction",
+    "keywords": [
+      "biomécanique",
+      "force",
+      "mouvement",
+      "équilibre",
+      "levier",
+      "newton"
+    ]
+  },
+  {
+    "id": "biomeca-mouvement",
+    "title": "Biomécanique — Analyse du mouvement et magnitudes",
+    "keywords": [
+      "magnitude",
+      "vecteur",
+      "force",
+      "moment",
+      "couple",
+      "cinématique",
+      "mouvement"
+    ]
+  },
+  {
+    "id": "physio-bloc1",
+    "title": "Physiologie humaine — Bloc I",
+    "keywords": [
+      "physiologie",
+      "homéostasie",
+      "muscle",
+      "système",
+      "nerveux"
+    ]
+  },
+  {
+    "id": "physio-cellule",
+    "title": "Physiologie cellulaire — Synthèse des protéines et division",
+    "keywords": [
+      "protéine",
+      "synthèse",
+      "cellule",
+      "division",
+      "mitose",
+      "ADN"
+    ]
+  }
+]

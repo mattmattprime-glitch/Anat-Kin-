@@ -1,0 +1,19 @@
+{
+  "version": "V32 ULTIMATE FULL",
+  "counts": {
+    "muscles": 47,
+    "bones": 25,
+    "joints": 13,
+    "pathologies": 8,
+    "exercises": 6,
+    "courses": 7
+  },
+  "major_build": [
+    "graphe de connaissances",
+    "recherche globale",
+    "parcours complet",
+    "suivi adaptatif",
+    "index transversal des cours",
+    "conservation des modules V31"
+  ]
+}

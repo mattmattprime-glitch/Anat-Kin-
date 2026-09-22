@@ -1,0 +1,104 @@
+[
+  {
+    "q": "Quel nerf innerve principalement le quadriceps ?",
+    "type": "QCM",
+    "choices": [
+      "Fémoral",
+      "Obturateur",
+      "Tibial",
+      "Radial"
+    ],
+    "answer": "Fémoral",
+    "topic": "Neuroanatomie"
+  },
+  {
+    "q": "Quel muscle est le principal dorsiflexeur de cheville ?",
+    "type": "QCM",
+    "choices": [
+      "Tibialis anterior",
+      "Soleus",
+      "Fibularis longus",
+      "Gastrocnemius"
+    ],
+    "answer": "Tibialis anterior",
+    "topic": "Membre inférieur"
+  },
+  {
+    "q": "Quel plan correspond principalement à la flexion-extension ?",
+    "type": "QCM",
+    "choices": [
+      "Sagittal",
+      "Frontal",
+      "Transversal",
+      "Oblique"
+    ],
+    "answer": "Sagittal",
+    "topic": "Biomécanique"
+  },
+  {
+    "q": "Le nerf axillaire innerve notamment le deltoïde.",
+    "type": "Vrai/Faux",
+    "answer": "Vrai",
+    "topic": "Neuroanatomie"
+  },
+  {
+    "q": "La pronation-supination se produit principalement autour de quel axe ?",
+    "type": "QCM",
+    "choices": [
+      "Longitudinal",
+      "Transversal",
+      "Antéro-postérieur",
+      "Frontal"
+    ],
+    "answer": "Longitudinal",
+    "topic": "Biomécanique"
+  },
+  {
+    "q": "Quel muscle participe fortement à l'abduction de hanche et au contrôle du bassin ?",
+    "type": "QCM",
+    "choices": [
+      "Gluteus medius",
+      "Biceps femoris",
+      "Soleus",
+      "Pectoralis major"
+    ],
+    "answer": "Gluteus medius",
+    "topic": "Hanche"
+  },
+  {
+    "q": "Dans une entorse latérale de cheville, quels objectifs deviennent progressivement importants ?",
+    "type": "Cas clinique",
+    "answer": "Mobilité, force des stabilisateurs, proprioception/contrôle puis reprise fonctionnelle.",
+    "topic": "Clinique"
+  },
+  {
+    "q": "Quel muscle bi-articulaire est à la fois fléchisseur du genou et extenseur de hanche ?",
+    "type": "QCM",
+    "choices": [
+      "Biceps femoris",
+      "Tibialis anterior",
+      "Rectus femoris",
+      "Sartorius"
+    ],
+    "answer": "Biceps femoris",
+    "topic": "Cuisse"
+  },
+  {
+    "q": "Quel est l'intérêt principal de la patella sur le plan mécanique ?",
+    "type": "Réponse courte",
+    "answer": "Augmenter le bras de levier du quadriceps et optimiser le mécanisme extenseur.",
+    "topic": "Genou"
+  },
+  {
+    "q": "Quelle structure nerveuse est particulièrement vulnérable autour du col de la fibula ?",
+    "type": "QCM",
+    "choices": [
+      "Nerf fibulaire commun",
+      "Nerf fémoral",
+      "Nerf obturateur",
+      "Nerf axillaire"
+    ],
+    "answer": "Nerf fibulaire commun",
+    "topic": "Neuroanatomie"
+  }
+]

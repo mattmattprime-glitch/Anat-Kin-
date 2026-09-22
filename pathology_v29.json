@@ -1,0 +1,115 @@
+[
+  {
+    "id": "lateral_ankle_sprain",
+    "label": "Entorse latérale de cheville",
+    "structures": [
+      "ATFL",
+      "fibulaires",
+      "talo-crurale"
+    ],
+    "mechanism": "Traumatisme en inversion, souvent avec flexion plantaire.",
+    "assessment": [
+      "douleur",
+      "œdème",
+      "amplitude",
+      "appui",
+      "stabilité",
+      "contrôle unipodal"
+    ],
+    "rehab": [
+      "mobilité",
+      "renforcement",
+      "proprioception",
+      "tâches fonctionnelles"
+    ],
+    "criteria": [
+      "douleur contrôlée",
+      "amplitude fonctionnelle",
+      "force et contrôle suffisants",
+      "tolérance aux tâches"
+    ]
+  },
+  {
+    "id": "patellofemoral_pain",
+    "label": "Douleur fémoro-patellaire",
+    "structures": [
+      "patella",
+      "quadriceps",
+      "hanche"
+    ],
+    "mechanism": "Douleur antérieure du genou souvent liée à la charge et aux tâches fonctionnelles; mécanismes multifactoriels.",
+    "assessment": [
+      "douleur et irritabilité",
+      "tolérance aux escaliers/squat",
+      "force quadriceps",
+      "contrôle hanche-genou"
+    ],
+    "rehab": [
+      "gestion de charge",
+      "renforcement quadriceps",
+      "renforcement hanche",
+      "progression fonctionnelle"
+    ],
+    "criteria": [
+      "meilleure tolérance aux tâches",
+      "contrôle du mouvement",
+      "progression de la capacité de charge"
+    ]
+  },
+  {
+    "id": "shoulder_rotator_cuff",
+    "label": "Douleur liée à la coiffe des rotateurs",
+    "structures": [
+      "supra-épineux",
+      "infra-épineux",
+      "subscapulaire",
+      "deltoïde"
+    ],
+    "mechanism": "Douleur d'épaule liée à la charge; diagnostic clinique à individualiser.",
+    "assessment": [
+      "amplitude",
+      "force",
+      "douleur à l'élévation",
+      "fonction"
+    ],
+    "rehab": [
+      "gestion de charge",
+      "mobilité selon déficit",
+      "renforcement progressif",
+      "réintégration fonctionnelle"
+    ],
+    "criteria": [
+      "amplitude fonctionnelle",
+      "tolérance à la charge",
+      "force progressive"
+    ]
+  },
+  {
+    "id": "low_back_pain",
+    "label": "Lombalgie commune — approche fonctionnelle",
+    "structures": [
+      "rachis lombaire",
+      "muscles du tronc",
+      "hanche"
+    ],
+    "mechanism": "Tableau fréquent et multifactoriel; rechercher les signes d'alerte avant une prise en charge fonctionnelle.",
+    "assessment": [
+      "douleur",
+      "fonction",
+      "mobilité",
+      "tolérance aux activités",
+      "drapeaux rouges"
+    ],
+    "rehab": [
+      "éducation",
+      "activité graduée",
+      "exercices adaptés",
+      "retour progressif aux activités"
+    ],
+    "criteria": [
+      "fonction améliorée",
+      "meilleure tolérance à l'activité",
+      "autogestion"
+    ]
+  }
+]

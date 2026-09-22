@@ -1,0 +1,925 @@
+[
+  {
+    "id": "deltoide",
+    "label": "Deltoïde",
+    "region": "Épaule",
+    "innervation": "Nerf axillaire (C5-C6)",
+    "action": "Abduction; faisceaux antérieur/postérieur participent aux flexion/extension",
+    "origin": "Acromion, clavicule, épine de la scapula",
+    "insertion": "Tubérosité deltoïdienne"
+  },
+  {
+    "id": "supraspinatus",
+    "label": "Supra-épineux",
+    "region": "Épaule",
+    "innervation": "Nerf suprascapulaire (C5-C6)",
+    "action": "Initiation de l'abduction; stabilisation gléno-humérale",
+    "origin": "Fosse supra-épineuse",
+    "insertion": "Facette supérieure du tubercule majeur"
+  },
+  {
+    "id": "infraspinatus",
+    "label": "Infra-épineux",
+    "region": "Épaule",
+    "innervation": "Nerf suprascapulaire (C5-C6)",
+    "action": "Rotation latérale; stabilisation",
+    "origin": "Fosse infra-épineuse",
+    "insertion": "Facette moyenne du tubercule majeur"
+  },
+  {
+    "id": "teres_minor",
+    "label": "Petit rond",
+    "region": "Épaule",
+    "innervation": "Nerf axillaire (C5-C6)",
+    "action": "Rotation latérale; adduction; stabilisation",
+    "origin": "Bord latéral de la scapula",
+    "insertion": "Facette inférieure du tubercule majeur"
+  },
+  {
+    "id": "subscapularis",
+    "label": "Subscapulaire",
+    "region": "Épaule",
+    "innervation": "Nerfs subscapulaires (C5-C7)",
+    "action": "Rotation médiale; stabilisation",
+    "origin": "Fosse subscapulaire",
+    "insertion": "Tubercule mineur"
+  },
+  {
+    "id": "pectoralis_major",
+    "label": "Grand pectoral",
+    "region": "Thorax",
+    "innervation": "Nerfs pectoraux médial et latéral",
+    "action": "Adduction et rotation médiale; flexion selon faisceau",
+    "origin": "Clavicule, sternum, cartilages costaux",
+    "insertion": "Lèvre latérale du sillon intertuberculaire"
+  },
+  {
+    "id": "latissimus_dorsi",
+    "label": "Grand dorsal",
+    "region": "Dos",
+    "innervation": "Nerf thoraco-dorsal (C6-C8)",
+    "action": "Extension, adduction, rotation médiale",
+    "origin": "Processus spinaux, fascia thoracolombaire, côtes",
+    "insertion": "Fond du sillon intertuberculaire"
+  },
+  {
+    "id": "biceps",
+    "label": "Biceps brachial",
+    "region": "Bras",
+    "innervation": "Nerf musculo-cutané (C5-C6)",
+    "action": "Flexion du coude; supination; flexion d'épaule",
+    "origin": "Scapula",
+    "insertion": "Tubérosité radiale"
+  },
+  {
+    "id": "brachialis",
+    "label": "Brachial",
+    "region": "Bras",
+    "innervation": "Nerf musculo-cutané (C5-C6)",
+    "action": "Principal fléchisseur du coude",
+    "origin": "Humérus distal",
+    "insertion": "Tubérosité ulnaire / processus coronoïde"
+  },
+  {
+    "id": "triceps",
+    "label": "Triceps brachial",
+    "region": "Bras",
+    "innervation": "Nerf radial (C6-C8)",
+    "action": "Extension du coude",
+    "origin": "Scapula et humérus",
+    "insertion": "Olécrâne"
+  },
+  {
+    "id": "brachioradialis",
+    "label": "Brachio-radial",
+    "region": "Avant-bras",
+    "innervation": "Nerf radial (C5-C7)",
+    "action": "Flexion du coude; ramène l'avant-bras vers la position neutre",
+    "origin": "Crête supracondylaire latérale",
+    "insertion": "Radius distal"
+  },
+  {
+    "id": "pronator_teres",
+    "label": "Rond pronateur",
+    "region": "Avant-bras",
+    "innervation": "Nerf médian (C6-C7)",
+    "action": "Pronation; flexion faible du coude",
+    "origin": "Épicondyle médial et ulna",
+    "insertion": "Radius latéral"
+  },
+  {
+    "id": "flexor_carpi_radialis",
+    "label": "Fléchisseur radial du carpe",
+    "region": "Avant-bras",
+    "innervation": "Nerf médian (C6-C7)",
+    "action": "Flexion et abduction du poignet",
+    "origin": "Épicondyle médial",
+    "insertion": "Bases des 2e-3e métacarpiens"
+  },
+  {
+    "id": "extensor_carpi_radialis",
+    "label": "Extenseur radial du carpe",
+    "region": "Avant-bras",
+    "innervation": "Nerf radial (C6-C7)",
+    "action": "Extension et abduction du poignet",
+    "origin": "Humérus distal",
+    "insertion": "Bases des 2e-3e métacarpiens"
+  },
+  {
+    "id": "iliopsoas",
+    "label": "Ilio-psoas",
+    "region": "Hanche",
+    "innervation": "Nerf fémoral et branches plexus lombaire",
+    "action": "Flexion de hanche; stabilisation lombopelvienne",
+    "origin": "Vertèbres lombaires et fosse iliaque",
+    "insertion": "Petit trochanter"
+  },
+  {
+    "id": "gluteus_maximus",
+    "label": "Grand fessier",
+    "region": "Fesse",
+    "innervation": "Nerf glutéal inférieur (L5-S2)",
+    "action": "Extension et rotation latérale de hanche",
+    "origin": "Ilion, sacrum, coccyx",
+    "insertion": "Tractus ilio-tibial et fémur"
+  },
+  {
+    "id": "gluteus_medius",
+    "label": "Moyen fessier",
+    "region": "Fesse",
+    "innervation": "Nerf glutéal supérieur (L4-S1)",
+    "action": "Abduction; stabilisation du bassin",
+    "origin": "Face externe de l'ilion",
+    "insertion": "Grand trochanter"
+  },
+  {
+    "id": "tensor_fasciae_latae",
+    "label": "Tenseur du fascia lata",
+    "region": "Hanche",
+    "innervation": "Nerf glutéal supérieur (L4-S1)",
+    "action": "Flexion, abduction, rotation médiale; tension tractus ilio-tibial",
+    "origin": "EIAS et crête iliaque",
+    "insertion": "Tractus ilio-tibial"
+  },
+  {
+    "id": "rectus_femoris",
+    "label": "Droit fémoral",
+    "region": "Cuisse",
+    "innervation": "Nerf fémoral (L2-L4)",
+    "action": "Extension du genou; flexion de hanche",
+    "origin": "EIAI et rebord acétabulaire",
+    "insertion": "Patella puis tubérosité tibiale"
+  },
+  {
+    "id": "vastus_lateralis",
+    "label": "Vaste latéral",
+    "region": "Cuisse",
+    "innervation": "Nerf fémoral (L2-L4)",
+    "action": "Extension du genou",
+    "origin": "Fémur proximal",
+    "insertion": "Patella / tendon quadricipital"
+  },
+  {
+    "id": "vastus_medialis",
+    "label": "Vaste médial",
+    "region": "Cuisse",
+    "innervation": "Nerf fémoral (L2-L4)",
+    "action": "Extension du genou; contrôle médial de la patella",
+    "origin": "Fémur médial",
+    "insertion": "Patella / tendon quadricipital"
+  },
+  {
+    "id": "sartorius",
+    "label": "Sartorius",
+    "region": "Cuisse",
+    "innervation": "Nerf fémoral (L2-L3)",
+    "action": "Flexion, abduction, rotation latérale de hanche; flexion genou",
+    "origin": "EIAS",
+    "insertion": "Patte d'oie"
+  },
+  {
+    "id": "adductor_longus",
+    "label": "Long adducteur",
+    "region": "Cuisse médiale",
+    "innervation": "Nerf obturateur (L2-L4)",
+    "action": "Adduction de hanche",
+    "origin": "Pubis",
+    "insertion": "Ligne âpre"
+  },
+  {
+    "id": "gracilis",
+    "label": "Gracile",
+    "region": "Cuisse médiale",
+    "innervation": "Nerf obturateur (L2-L3)",
+    "action": "Adduction de hanche; flexion genou",
+    "origin": "Pubis",
+    "insertion": "Patte d'oie"
+  },
+  {
+    "id": "biceps_femoris",
+    "label": "Biceps fémoral",
+    "region": "Cuisse postérieure",
+    "innervation": "Nerf tibial; chef court via fibulaire commun",
+    "action": "Flexion du genou; extension et rotation latérale de hanche selon chef",
+    "origin": "Ischion / fémur",
+    "insertion": "Tête de la fibula"
+  },
+  {
+    "id": "semitendinosus",
+    "label": "Semi-tendineux",
+    "region": "Cuisse postérieure",
+    "innervation": "Nerf tibial (L5-S2)",
+    "action": "Extension hanche; flexion et rotation médiale genou",
+    "origin": "Tubérosité ischiatique",
+    "insertion": "Patte d'oie"
+  },
+  {
+    "id": "semimembranosus",
+    "label": "Semi-membraneux",
+    "region": "Cuisse postérieure",
+    "innervation": "Nerf tibial (L5-S2)",
+    "action": "Extension hanche; flexion et rotation médiale genou",
+    "origin": "Tubérosité ischiatique",
+    "insertion": "Condyle médial du tibia"
+  },
+  {
+    "id": "tibialis_anterior",
+    "label": "Tibial antérieur",
+    "region": "Jambe",
+    "innervation": "Nerf fibulaire profond (L4-L5)",
+    "action": "Dorsiflexion et inversion",
+    "origin": "Tibia latéral et membrane interosseuse",
+    "insertion": "Cunéiforme médial et base du 1er métatarsien"
+  },
+  {
+    "id": "gastrocnemius",
+    "label": "Gastrocnémien",
+    "region": "Jambe postérieure",
+    "innervation": "Nerf tibial (S1-S2)",
+    "action": "Flexion plantaire; flexion du genou",
+    "origin": "Condyles fémoraux",
+    "insertion": "Calcanéus via tendon calcanéen"
+  },
+  {
+    "id": "soleus",
+    "label": "Soléaire",
+    "region": "Jambe postérieure",
+    "innervation": "Nerf tibial (S1-S2)",
+    "action": "Flexion plantaire",
+    "origin": "Tibia et fibula proximaux",
+    "insertion": "Calcanéus via tendon calcanéen"
+  },
+  {
+    "id": "fibularis_longus",
+    "label": "Long fibulaire",
+    "region": "Jambe latérale",
+    "innervation": "Nerf fibulaire superficiel (L5-S1)",
+    "action": "Éversion; flexion plantaire",
+    "origin": "Fibula",
+    "insertion": "Base du 1er métatarsien et cunéiforme médial"
+  },
+  {
+    "id": "fibularis_brevis",
+    "label": "Court fibulaire",
+    "region": "Jambe latérale",
+    "innervation": "Nerf fibulaire superficiel (L5-S1)",
+    "action": "Éversion; flexion plantaire",
+    "origin": "Fibula distale",
+    "insertion": "Base du 5e métatarsien"
+  },
+  {
+    "id": "tibialis_posterior",
+    "label": "Tibial postérieur",
+    "region": "Jambe profonde",
+    "innervation": "Nerf tibial (L4-L5)",
+    "action": "Inversion et flexion plantaire; soutien de la voûte",
+    "origin": "Tibia, fibula, membrane interosseuse",
+    "insertion": "Naviculaire et os du tarse"
+  },
+  {
+    "id": "extensor_hallucis_longus",
+    "label": "Long extenseur de l'hallux",
+    "region": "Jambe antérieure",
+    "innervation": "Nerf fibulaire profond (L5-S1)",
+    "action": "Extension de l'hallux; dorsiflexion",
+    "origin": "Fibula et membrane interosseuse",
+    "insertion": "Phalange distale de l'hallux"
+  },
+  {
+    "id": "extensor_digitorum_longus",
+    "label": "Long extenseur des orteils",
+    "region": "Jambe antérieure",
+    "innervation": "Nerf fibulaire profond (L5-S1)",
+    "action": "Extension des orteils; dorsiflexion",
+    "origin": "Tibia/fibula",
+    "insertion": "Phalanges des orteils 2-5"
+  },
+  {
+    "id": "masseter",
+    "label": "Masséter",
+    "region": "Tête",
+    "innervation": "Nerf mandibulaire (V3)",
+    "action": "Élévation de la mandibule",
+    "origin": "Arcade zygomatique",
+    "insertion": "Angle et branche de la mandibule"
+  },
+  {
+    "id": "temporalis",
+    "label": "Temporal",
+    "region": "Tête",
+    "innervation": "Nerf mandibulaire (V3)",
+    "action": "Élévation et rétropulsion de la mandibule",
+    "origin": "Fosse temporale",
+    "insertion": "Processus coronoïde"
+  },
+  {
+    "id": "sternocleidomastoid",
+    "label": "Sterno-cléido-mastoïdien",
+    "region": "Cou",
+    "innervation": "Nerf accessoire (XI) et branches cervicales",
+    "action": "Flexion cervicale; inclinaison homolatérale et rotation controlatérale",
+    "origin": "Manubrium et clavicule",
+    "insertion": "Processus mastoïde"
+  },
+  {
+    "id": "trapezius",
+    "label": "Trapèze",
+    "region": "Dos",
+    "innervation": "Nerf accessoire (XI) et branches cervicales",
+    "action": "Élévation, rétraction, abaissement et rotation supérieure de la scapula",
+    "origin": "Occiput, ligament nuchal et processus spinaux cervico-thoraciques",
+    "insertion": "Clavicule, acromion et épine de la scapula"
+  },
+  {
+    "id": "rhomboid_major",
+    "label": "Rhomboïde majeur",
+    "region": "Dos",
+    "innervation": "Nerf dorsal de la scapula (C4-C5)",
+    "action": "Rétraction et rotation inférieure de la scapula",
+    "origin": "Processus spinaux T2-T5",
+    "insertion": "Bord médial de la scapula"
+  },
+  {
+    "id": "serratus_anterior",
+    "label": "Dentelé antérieur",
+    "region": "Thorax",
+    "innervation": "Nerf thoracique long (C5-C7)",
+    "action": "Protraction et rotation supérieure de la scapula; maintien contre le thorax",
+    "origin": "Faces latérales des côtes 1-8/9",
+    "insertion": "Bord médial et angle inférieur de la scapula"
+  },
+  {
+    "id": "rectus_abdominis",
+    "label": "Droit de l'abdomen",
+    "region": "Tronc",
+    "innervation": "Nerfs thoraco-abdominaux",
+    "action": "Flexion du tronc et stabilisation",
+    "origin": "Crête pubienne",
+    "insertion": "Processus xiphoïde et cartilages costaux"
+  },
+  {
+    "id": "erector_spinae",
+    "label": "Érecteurs du rachis",
+    "region": "Rachis",
+    "innervation": "Branches postérieures des nerfs spinaux",
+    "action": "Extension et contrôle postural du rachis",
+    "origin": "Sacrum et régions lombaires",
+    "insertion": "Côtes, vertèbres et crâne selon faisceau"
+  },
+  {
+    "id": "piriformis",
+    "label": "Piriforme",
+    "region": "Hanche profonde",
+    "innervation": "Nerf du piriforme",
+    "action": "Rotation latérale de hanche; abduction de hanche fléchie",
+    "origin": "Face antérieure du sacrum",
+    "insertion": "Grand trochanter"
+  },
+  {
+    "id": "popliteus",
+    "label": "Poplité",
+    "region": "Genou",
+    "innervation": "Nerf tibial",
+    "action": "Déverrouillage du genou; rotation médiale du tibia",
+    "origin": "Condyle latéral du fémur",
+    "insertion": "Face postérieure du tibia proximal"
+  },
+  {
+    "id": "plantaris",
+    "label": "Plantaire",
+    "region": "Jambe",
+    "innervation": "Nerf tibial",
+    "action": "Faible flexion plantaire et flexion du genou",
+    "origin": "Fémur distal",
+    "insertion": "Calcanéus via tendon calcanéen"
+  },
+  {
+    "id": "extensor_carpi_ulnaris",
+    "label": "Extenseur ulnaire du carpe",
+    "region": "Avant-bras",
+    "innervation": "Nerf radial (branche profonde)",
+    "action": "Extension et inclinaison ulnaire du poignet",
+    "origin": "Épicondyle latéral et ulna",
+    "insertion": "Base du 5e métacarpien"
+  },
+  {
+    "name": "Deltoïde",
+    "region": "Épaule",
+    "origin": "Tiers latéral de la clavicule, acromion, épine de la scapula",
+    "insertion": "Tubérosité deltoïdienne de l'humérus",
+    "innervation": "Nerf axillaire (C5-C6)",
+    "action": "Abduction du bras; faisceaux antérieur et postérieur participent aux flexion/extension et rotations",
+    "clinical": "Coiffe et contrôle de l'épaule; attention à la douleur et au conflit sous-acromial",
+    "movements": "Abduction; flexion; extension"
+  },
+  {
+    "name": "Supraspinatus",
+    "region": "Épaule",
+    "origin": "Fosse supra-épineuse de la scapula",
+    "insertion": "Facette supérieure du tubercule majeur de l'humérus",
+    "innervation": "Nerf suprascapulaire (C5-C6)",
+    "action": "Initie l'abduction et stabilise la tête humérale",
+    "clinical": "Coiffe des rotateurs; tendinopathies fréquentes",
+    "movements": "Abduction"
+  },
+  {
+    "name": "Infraspinatus",
+    "region": "Épaule",
+    "origin": "Fosse infra-épineuse de la scapula",
+    "insertion": "Facette moyenne du tubercule majeur",
+    "innervation": "Nerf suprascapulaire (C5-C6)",
+    "action": "Rotation latérale et stabilisation gléno-humérale",
+    "clinical": "Important dans le contrôle rotatoire de l'épaule",
+    "movements": "Rotation latérale"
+  },
+  {
+    "name": "Teres minor",
+    "region": "Épaule",
+    "origin": "Bord latéral de la scapula",
+    "insertion": "Facette inférieure du tubercule majeur",
+    "innervation": "Nerf axillaire (C5-C6)",
+    "action": "Rotation latérale et adduction du bras",
+    "clinical": "Coiffe des rotateurs",
+    "movements": "Rotation latérale; adduction"
+  },
+  {
+    "name": "Subscapularis",
+    "region": "Épaule",
+    "origin": "Fosse subscapulaire",
+    "insertion": "Tubercule mineur de l'humérus",
+    "innervation": "Nerfs subscapulaires (C5-C7)",
+    "action": "Rotation médiale et stabilisation de la tête humérale",
+    "clinical": "Coiffe des rotateurs",
+    "movements": "Rotation médiale"
+  },
+  {
+    "name": "Pectoralis major",
+    "region": "Thorax",
+    "origin": "Moitié médiale de la clavicule, sternum et cartilages costaux supérieurs",
+    "insertion": "Crête du tubercule majeur de l'humérus",
+    "innervation": "Nerfs pectoraux médial et latéral (C5-T1)",
+    "action": "Adduction et rotation médiale du bras; flexion selon les faisceaux",
+    "clinical": "Fonctionnel dans les poussées et transferts",
+    "movements": "Adduction; flexion; rotation médiale"
+  },
+  {
+    "name": "Latissimus dorsi",
+    "region": "Dos",
+    "origin": "Processus épineux thoraciques et lombaires, fascia thoracolombaire, crête iliaque et côtes inférieures",
+    "insertion": "Plancher du sillon intertuberculaire de l'humérus",
+    "innervation": "Nerf thoracodorsal (C6-C8)",
+    "action": "Extension, adduction et rotation médiale du bras",
+    "clinical": "Important pour traction, appui et transfert",
+    "movements": "Extension; adduction"
+  },
+  {
+    "name": "Biceps brachii",
+    "region": "Bras",
+    "origin": "Processus coracoïde et tubercule supraglénoïdal",
+    "insertion": "Tubérosité radiale et aponévrose bicipitale",
+    "innervation": "Nerf musculocutané (C5-C6)",
+    "action": "Flexion du coude et supination; participe à la flexion de l'épaule",
+    "clinical": "Tester force, douleur antérieure et tendon long",
+    "movements": "Flexion; supination"
+  },
+  {
+    "name": "Brachialis",
+    "region": "Bras",
+    "origin": "Moitié distale de la face antérieure de l'humérus",
+    "insertion": "Tubérosité et processus coronoïde de l'ulna",
+    "innervation": "Nerf musculocutané (C5-C6)",
+    "action": "Principal fléchisseur du coude",
+    "clinical": "Fléchisseur puissant quelle que soit la position de l'avant-bras",
+    "movements": "Flexion"
+  },
+  {
+    "name": "Triceps brachii",
+    "region": "Bras",
+    "origin": "Tubercule infraglénoïdal et face postérieure de l'humérus",
+    "insertion": "Olécrâne de l'ulna",
+    "innervation": "Nerf radial (C6-C8)",
+    "action": "Extension du coude; chef long participe à l'extension et adduction de l'épaule",
+    "clinical": "Important pour poussée et transfert de poids",
+    "movements": "Extension"
+  },
+  {
+    "name": "Pronator teres",
+    "region": "Avant-bras",
+    "origin": "Épicondyle médial et processus coronoïde",
+    "insertion": "Face latérale du radius",
+    "innervation": "Nerf médian (C6-C7)",
+    "action": "Pronation et faible flexion du coude",
+    "clinical": "Syndrome du rond pronateur possible",
+    "movements": "Pronation"
+  },
+  {
+    "name": "Supinator",
+    "region": "Avant-bras",
+    "origin": "Épicondyle latéral, ligament annulaire et ulna proximal",
+    "insertion": "Tiers proximal du radius",
+    "innervation": "Nerf radial / branche profonde (C6-C7)",
+    "action": "Supination",
+    "clinical": "À distinguer de l'action du biceps selon la position du coude",
+    "movements": "Supination"
+  },
+  {
+    "name": "Flexor carpi radialis",
+    "region": "Avant-bras",
+    "origin": "Épicondyle médial",
+    "insertion": "Bases des 2e-3e métacarpiens",
+    "innervation": "Nerf médian (C6-C7)",
+    "action": "Flexion et abduction radiale du poignet",
+    "clinical": "Contrôle du poignet en préhension",
+    "movements": "Flexion; abduction"
+  },
+  {
+    "name": "Flexor carpi ulnaris",
+    "region": "Avant-bras",
+    "origin": "Épicondyle médial, ulna proximal",
+    "insertion": "Pisiforme, hamatum et base du 5e métacarpien",
+    "innervation": "Nerf ulnaire (C7-T1)",
+    "action": "Flexion et adduction ulnaire du poignet",
+    "clinical": "Stabilisation ulnaire du poignet",
+    "movements": "Flexion; adduction"
+  },
+  {
+    "name": "Extensor carpi radialis longus",
+    "region": "Avant-bras",
+    "origin": "Crête supracondylaire latérale",
+    "insertion": "Base du 2e métacarpien",
+    "innervation": "Nerf radial (C6-C7)",
+    "action": "Extension et abduction radiale du poignet",
+    "clinical": "Contrôle du poignet lors de l'extension des doigts",
+    "movements": "Extension"
+  },
+  {
+    "name": "Extensor carpi radialis brevis",
+    "region": "Avant-bras",
+    "origin": "Épicondyle latéral",
+    "insertion": "Base du 3e métacarpien",
+    "innervation": "Nerf radial (C7-C8)",
+    "action": "Extension et abduction radiale du poignet",
+    "clinical": "Épicondylalgie latérale souvent associée à sa région",
+    "movements": "Extension"
+  },
+  {
+    "name": "Extensor digitorum",
+    "region": "Avant-bras",
+    "origin": "Épicondyle latéral",
+    "insertion": "Expansions dorsales des doigts 2-5",
+    "innervation": "Nerf interosseux postérieur (C7-C8)",
+    "action": "Extension des doigts et du poignet",
+    "clinical": "Impliqué dans la fonction d'ouverture de la main",
+    "movements": "Extension"
+  },
+  {
+    "name": "Gluteus maximus",
+    "region": "Hanche",
+    "origin": "Ilion postérieur, sacrum et coccyx",
+    "insertion": "Tractus ilio-tibial et tubérosité glutéale",
+    "innervation": "Nerf glutéal inférieur (L5-S2)",
+    "action": "Extension et rotation latérale de hanche",
+    "clinical": "Essentiel dans montée d'escaliers et se relever",
+    "movements": "Extension"
+  },
+  {
+    "name": "Gluteus medius",
+    "region": "Hanche",
+    "origin": "Face externe de l'ilion",
+    "insertion": "Face latérale du grand trochanter",
+    "innervation": "Nerf glutéal supérieur (L4-S1)",
+    "action": "Abduction et stabilisation du bassin; rotation selon faisceau",
+    "clinical": "Faiblesse associée au signe de Trendelenburg",
+    "movements": "Abduction"
+  },
+  {
+    "name": "Gluteus minimus",
+    "region": "Hanche",
+    "origin": "Face externe de l'ilion",
+    "insertion": "Face antérieure du grand trochanter",
+    "innervation": "Nerf glutéal supérieur (L4-S1)",
+    "action": "Abduction et rotation médiale de hanche",
+    "clinical": "Stabilisateur latéral de hanche",
+    "movements": "Abduction; rotation médiale"
+  },
+  {
+    "name": "Tensor fasciae latae",
+    "region": "Hanche",
+    "origin": "EIAS et crête iliaque antérieure",
+    "insertion": "Tractus ilio-tibial",
+    "innervation": "Nerf glutéal supérieur (L4-S1)",
+    "action": "Flexion, abduction et rotation médiale de hanche; tension du tractus",
+    "clinical": "Contrôle frontal du membre inférieur",
+    "movements": "Flexion; abduction"
+  },
+  {
+    "name": "Iliopsoas",
+    "region": "Hanche",
+    "origin": "Vertèbres lombaires et fosse iliaque",
+    "insertion": "Petit trochanter",
+    "innervation": "Nerf fémoral et branches lombaires",
+    "action": "Principal fléchisseur de hanche",
+    "clinical": "Important pour marche, montée d'escalier et flexion active",
+    "movements": "Flexion"
+  },
+  {
+    "name": "Adductor longus",
+    "region": "Hanche",
+    "origin": "Corps du pubis",
+    "insertion": "Tiers moyen de la ligne âpre",
+    "innervation": "Nerf obturateur (L2-L4)",
+    "action": "Adduction et aide à la flexion de hanche",
+    "clinical": "Stabilité du plan frontal",
+    "movements": "Adduction"
+  },
+  {
+    "name": "Adductor magnus",
+    "region": "Hanche",
+    "origin": "Pubis, ischion",
+    "insertion": "Ligne âpre et tubercule de l'adducteur",
+    "innervation": "Nerf obturateur et tibial du sciatique",
+    "action": "Adduction; partie postérieure extension de hanche",
+    "clinical": "Lésion musculaire fréquente en sport",
+    "movements": "Adduction; extension"
+  },
+  {
+    "name": "Sartorius",
+    "region": "Cuisse",
+    "origin": "EIAS",
+    "insertion": "Face médiale proximale du tibia",
+    "innervation": "Nerf fémoral (L2-L3)",
+    "action": "Flexion, abduction et rotation latérale de hanche; flexion du genou",
+    "clinical": "Participe à la position en tailleur",
+    "movements": "Flexion"
+  },
+  {
+    "name": "Rectus femoris",
+    "region": "Cuisse",
+    "origin": "EIAI et rebord supérieur de l'acétabulum",
+    "insertion": "Patella puis tubérosité tibiale via ligament patellaire",
+    "innervation": "Nerf fémoral (L2-L4)",
+    "action": "Extension du genou et flexion de hanche",
+    "clinical": "Composant bi-articulaire du quadriceps",
+    "movements": "Extension; flexion"
+  },
+  {
+    "name": "Vastus medialis",
+    "region": "Cuisse",
+    "origin": "Ligne intertrochantérique et ligne âpre médiale",
+    "insertion": "Patella et tubérosité tibiale",
+    "innervation": "Nerf fémoral (L2-L4)",
+    "action": "Extension du genou et contrôle médial de la patella",
+    "clinical": "Contrôle de l'appareil extenseur",
+    "movements": "Extension"
+  },
+  {
+    "name": "Vastus lateralis",
+    "region": "Cuisse",
+    "origin": "Grand trochanter et ligne âpre latérale",
+    "insertion": "Patella et tubérosité tibiale",
+    "innervation": "Nerf fémoral (L2-L4)",
+    "action": "Extension du genou",
+    "clinical": "Puissant extenseur du genou",
+    "movements": "Extension"
+  },
+  {
+    "name": "Vastus intermedius",
+    "region": "Cuisse",
+    "origin": "Face antérieure et latérale du fémur",
+    "insertion": "Patella puis tubérosité tibiale",
+    "innervation": "Nerf fémoral (L2-L4)",
+    "action": "Extension du genou",
+    "clinical": "Composant profond du quadriceps",
+    "movements": "Extension"
+  },
+  {
+    "name": "Biceps femoris",
+    "region": "Cuisse",
+    "origin": "Tubérosité ischiatique et ligne âpre",
+    "insertion": "Tête de la fibula",
+    "innervation": "Nerf tibial (chef long) et fibulaire commun (chef court)",
+    "action": "Flexion du genou et rotation latérale; extension de hanche par chef long",
+    "clinical": "Ischio-jambier majeur",
+    "movements": "Flexion; extension"
+  },
+  {
+    "name": "Semitendinosus",
+    "region": "Cuisse",
+    "origin": "Tubérosité ischiatique",
+    "insertion": "Patte d'oie sur tibia médial",
+    "innervation": "Nerf tibial (L5-S2)",
+    "action": "Extension de hanche, flexion et rotation médiale du genou",
+    "clinical": "Ischio-jambier bi-articulaire",
+    "movements": "Flexion; extension"
+  },
+  {
+    "name": "Semimembranosus",
+    "region": "Cuisse",
+    "origin": "Tubérosité ischiatique",
+    "insertion": "Condyle médial du tibia",
+    "innervation": "Nerf tibial (L5-S2)",
+    "action": "Extension de hanche, flexion et rotation médiale du genou",
+    "clinical": "Participe à la stabilité postéro-médiale",
+    "movements": "Flexion; extension"
+  },
+  {
+    "name": "Gastrocnemius",
+    "region": "Jambe",
+    "origin": "Condyles fémoraux médial et latéral",
+    "insertion": "Calcanéus via tendon calcanéen",
+    "innervation": "Nerf tibial (S1-S2)",
+    "action": "Flexion plantaire et flexion du genou",
+    "clinical": "Important pour propulsion et retour veineux",
+    "movements": "Flexion plantaire"
+  },
+  {
+    "name": "Soleus",
+    "region": "Jambe",
+    "origin": "Tête et face postérieure de la fibula, ligne du soléaire",
+    "insertion": "Calcanéus via tendon calcanéen",
+    "innervation": "Nerf tibial (S1-S2)",
+    "action": "Flexion plantaire",
+    "clinical": "Stabilisateur postural majeur",
+    "movements": "Flexion plantaire"
+  },
+  {
+    "name": "Tibialis anterior",
+    "region": "Jambe",
+    "origin": "Condyle latéral et face latérale du tibia, membrane interosseuse",
+    "insertion": "Cunéiforme médial et base du 1er métatarsien",
+    "innervation": "Nerf fibulaire profond (L4-L5)",
+    "action": "Dorsiflexion et inversion",
+    "clinical": "Contrôle du pied en phase oscillante et contact initial",
+    "movements": "Dorsiflexion"
+  },
+  {
+    "name": "Tibialis posterior",
+    "region": "Jambe",
+    "origin": "Faces postérieures tibia/fibula et membrane interosseuse",
+    "insertion": "Naviculaire, cunéiformes et bases métatarsiennes",
+    "innervation": "Nerf tibial (L4-L5)",
+    "action": "Flexion plantaire et inversion; soutien de la voûte médiale",
+    "clinical": "Important dans contrôle de l'arche du pied",
+    "movements": "Inversion; flexion plantaire"
+  },
+  {
+    "name": "Fibularis longus",
+    "region": "Jambe",
+    "origin": "Tête et face latérale proximale de la fibula",
+    "insertion": "Base du 1er métatarsien et cunéiforme médial",
+    "innervation": "Nerf fibulaire superficiel (L5-S1)",
+    "action": "Éversion et flexion plantaire",
+    "clinical": "Stabilisation latérale et transverse du pied",
+    "movements": "Éversion"
+  },
+  {
+    "name": "Fibularis brevis",
+    "region": "Jambe",
+    "origin": "Face latérale distale de la fibula",
+    "insertion": "Tubérosité du 5e métatarsien",
+    "innervation": "Nerf fibulaire superficiel (L5-S1)",
+    "action": "Éversion et flexion plantaire",
+    "clinical": "Associé à la stabilité latérale de cheville",
+    "movements": "Éversion"
+  },
+  {
+    "name": "Extensor hallucis longus",
+    "region": "Jambe",
+    "origin": "Face antérieure de la fibula",
+    "insertion": "Base de la phalange distale du gros orteil",
+    "innervation": "Nerf fibulaire profond (L5)",
+    "action": "Extension du gros orteil et dorsiflexion",
+    "clinical": "Participe au dégagement du pied",
+    "movements": "Dorsiflexion"
+  },
+  {
+    "name": "Flexor hallucis longus",
+    "region": "Jambe",
+    "origin": "Face postérieure de la fibula",
+    "insertion": "Base de la phalange distale du gros orteil",
+    "innervation": "Nerf tibial (S2-S3)",
+    "action": "Flexion du gros orteil et flexion plantaire",
+    "clinical": "Important pour propulsion et appui",
+    "movements": "Flexion plantaire"
+  },
+  {
+    "name": "Masseter",
+    "region": "Tête",
+    "origin": "Arc zygomatique",
+    "insertion": "Face latérale de la mandibule",
+    "innervation": "Nerf mandibulaire V3",
+    "action": "Élévation de la mandibule",
+    "clinical": "Mastication et articulation temporo-mandibulaire",
+    "movements": "Élévation"
+  },
+  {
+    "name": "Temporalis",
+    "region": "Tête",
+    "origin": "Fosse temporale",
+    "insertion": "Processus coronoïde de la mandibule",
+    "innervation": "Nerf mandibulaire V3",
+    "action": "Élévation et rétropulsion de la mandibule",
+    "clinical": "Mastication",
+    "movements": "Élévation; rétropulsion"
+  },
+  {
+    "name": "Sternocleidomastoid",
+    "region": "Cou",
+    "origin": "Manubrium sternal et clavicule médiale",
+    "insertion": "Processus mastoïde",
+    "innervation": "Nerf accessoire XI + branches cervicales",
+    "action": "Flexion cervicale; inclinaison homolatérale et rotation controlatérale",
+    "clinical": "Contrôle postural cervical",
+    "movements": "Flexion; rotation"
+  },
+  {
+    "name": "Trapezius",
+    "region": "Dos",
+    "origin": "Occiput, ligament nuchal et processus spinaux cervicaux/thoraciques",
+    "insertion": "Clavicule, acromion et épine de scapula",
+    "innervation": "Nerf accessoire XI + C3-C4",
+    "action": "Élévation, rétraction, abaissement et rotation supérieure de scapula",
+    "clinical": "Stabilité scapulaire",
+    "movements": "Élévation; rotation"
+  },
+  {
+    "name": "Serratus anterior",
+    "region": "Thorax",
+    "origin": "Faces latérales des côtes 1-8/9",
+    "insertion": "Bord médial de la scapula",
+    "innervation": "Nerf thoracique long (C5-C7)",
+    "action": "Protraction et rotation supérieure de scapula; maintien contre thorax",
+    "clinical": "Faiblesse: scapula alata",
+    "movements": "Protraction; rotation"
+  },
+  {
+    "name": "Rectus abdominis",
+    "region": "Tronc",
+    "origin": "Symphyse et crête pubiennes",
+    "insertion": "Processus xiphoïde et cartilages costaux",
+    "innervation": "Nerfs thoraco-abdominaux",
+    "action": "Flexion du tronc et stabilisation",
+    "clinical": "Contrôle lombo-pelvien",
+    "movements": "Flexion"
+  },
+  {
+    "name": "Erector spinae",
+    "region": "Dos",
+    "origin": "Sacrum, crête iliaque et processus spinaux",
+    "insertion": "Côtes et processus transverses/épineux cervicaux",
+    "innervation": "Branches dorsales des nerfs spinaux",
+    "action": "Extension et inclinaison du rachis; posture",
+    "clinical": "Endurance posturale et contrôle du tronc",
+    "movements": "Extension"
+  },
+  {
+    "name": "Piriformis",
+    "region": "Hanche",
+    "origin": "Face pelvienne du sacrum",
+    "insertion": "Grand trochanter",
+    "innervation": "Nerf du piriforme (S1-S2)",
+    "action": "Rotation latérale de hanche; abduction si hanche fléchie",
+    "clinical": "Région profonde fessière et rapport avec nerf sciatique",
+    "movements": "Rotation latérale"
+  },
+  {
+    "name": "Popliteus",
+    "region": "Genou",
+    "origin": "Condyle latéral du fémur",
+    "insertion": "Face postérieure du tibia proximal",
+    "innervation": "Nerf tibial (L4-S1)",
+    "action": "Déverrouillage du genou et rotation médiale du tibia",
+    "clinical": "Participe à la stabilité postérieure",
+    "movements": "Rotation"
+  },
+  {
+    "name": "Plantaris",
+    "region": "Jambe",
+    "origin": "Ligne supracondylaire latérale du fémur",
+    "insertion": "Calcanéus via tendon calcanéen",
+    "innervation": "Nerf tibial (S1-S2)",
+    "action": "Faible flexion plantaire et flexion du genou",
+    "clinical": "Petit muscle bi-articulaire",
+    "movements": "Flexion plantaire"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Bilan de cheville post-entorse",
+    "steps": [
+      "Interrogatoire et mécanisme",
+      "Douleur et œdème",
+      "Amplitude active/passive",
+      "Force et douleur à la contraction",
+      "Tests de stabilité selon phase",
+      "Appui, marche et équilibre",
+      "Objectifs fonctionnels"
+    ],
+    "red_flags": [
+      "Déformation",
+      "Impossibilité majeure d'appui",
+      "Douleur osseuse importante",
+      "Aggravation inhabituelle"
+    ],
+    "outcome": "Définir mobilité, stabilité, force, proprioception et capacité fonctionnelle."
+  },
+  {
+    "name": "Bilan du genou",
+    "steps": [
+      "Douleur/localisation",
+      "Œdème et mobilité",
+      "Extension complète",
+      "Flexion",
+      "Force quadriceps/ischio-jambiers",
+      "Contrôle unipodal",
+      "Fonction: marche, squat, escaliers"
+    ],
+    "red_flags": [
+      "Traumatisme majeur",
+      "Blocage franc",
+      "Instabilité aiguë importante",
+      "Signes neurovasculaires"
+    ],
+    "outcome": "Objectiver déficit et prioriser mobilité, force et contrôle."
+  },
+  {
+    "name": "Bilan d'épaule",
+    "steps": [
+      "Douleur et activité déclenchante",
+      "Mobilité active/passive",
+      "Force des rotateurs",
+      "Contrôle scapulaire",
+      "Tests fonctionnels",
+      "Tolérance à la charge"
+    ],
+    "red_flags": [
+      "Traumatisme avec déformation",
+      "Déficit neurologique aigu",
+      "Douleur intense inexpliquée"
+    ],
+    "outcome": "Différencier limitation de mobilité, déficit de force et intolérance à la charge."
+  },
+  {
+    "name": "Bilan cervical",
+    "steps": [
+      "Douleur et irradiation",
+      "Mobilité cervicale",
+      "Examen neurologique si indiqué",
+      "Fonction et posture",
+      "Tolérance aux mouvements/charges",
+      "Évolution temporelle"
+    ],
+    "red_flags": [
+      "Traumatisme important",
+      "Déficit neurologique progressif",
+      "Troubles sphinctériens ou signes médullaires",
+      "Céphalée inhabituelle associée à signes neurologiques"
+    ],
+    "outcome": "Sécuriser le bilan puis établir un plan de prise en charge fonctionnel."
+  }
+]

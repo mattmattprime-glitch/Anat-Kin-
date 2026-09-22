@@ -1,0 +1,152 @@
+[
+  {
+    "id": "scapula",
+    "label": "Scapula",
+    "region": "Ceinture scapulaire",
+    "description": "Os plat; glène; acromion; processus coracoïde"
+  },
+  {
+    "id": "clavicle",
+    "label": "Clavicule",
+    "region": "Ceinture scapulaire",
+    "description": "Os long; relie sternum et scapula"
+  },
+  {
+    "id": "humerus",
+    "label": "Humérus",
+    "region": "Bras",
+    "description": "Tête humérale; tubercules; trochlée; capitulum"
+  },
+  {
+    "id": "radius",
+    "label": "Radius",
+    "region": "Avant-bras",
+    "description": "Tête radiale; col; tubérosité; extrémité distale"
+  },
+  {
+    "id": "ulna",
+    "label": "Ulna",
+    "region": "Avant-bras",
+    "description": "Olécrâne; processus coronoïde; incisure trochléaire"
+  },
+  {
+    "id": "pelvis",
+    "label": "Os coxal",
+    "region": "Bassin",
+    "description": "Ilion; ischion; pubis; acétabulum"
+  },
+  {
+    "id": "femur",
+    "label": "Fémur",
+    "region": "Cuisse",
+    "description": "Tête; col; trochanters; condyles"
+  },
+  {
+    "id": "patella",
+    "label": "Patella",
+    "region": "Genou",
+    "description": "Os sésamoïde du tendon quadricipital"
+  },
+  {
+    "id": "tibia",
+    "label": "Tibia",
+    "region": "Jambe",
+    "description": "Plateau tibial; tubérosité; malléole médiale"
+  },
+  {
+    "id": "fibula",
+    "label": "Fibula",
+    "region": "Jambe",
+    "description": "Tête; corps; malléole latérale"
+  },
+  {
+    "id": "talus",
+    "label": "Talus",
+    "region": "Pied",
+    "description": "Participe à l'articulation talo-crurale"
+  },
+  {
+    "id": "calcaneus",
+    "label": "Calcanéus",
+    "region": "Pied",
+    "description": "Plus grand os du tarse; insertion du tendon calcanéen"
+  },
+  {
+    "id": "vertebra",
+    "label": "Vertèbre",
+    "region": "Rachis",
+    "description": "Corps, arc, processus; variations selon région"
+  },
+  {
+    "id": "sternum",
+    "label": "Sternum",
+    "region": "Thorax",
+    "description": "Manubrium, corps, processus xiphoïde"
+  },
+  {
+    "id": "rib",
+    "label": "Côte",
+    "region": "Thorax",
+    "description": "Os plat courbe participant à la cage thoracique"
+  },
+  {
+    "id": "mandible",
+    "label": "Mandibule",
+    "region": "Tête",
+    "description": "Os impair de la face; porte les dents mandibulaires et participe à l'articulation temporo-mandibulaire."
+  },
+  {
+    "id": "skull",
+    "label": "Crâne",
+    "region": "Tête",
+    "description": "Ensemble osseux protégeant l'encéphale et constituant le squelette de la face."
+  },
+  {
+    "id": "sacrum",
+    "label": "Sacrum",
+    "region": "Rachis",
+    "description": "Os résultant de la fusion des vertèbres sacrées; participe à l'anneau pelvien."
+  },
+  {
+    "id": "coccyx",
+    "label": "Coccyx",
+    "region": "Rachis",
+    "description": "Segment terminal du rachis."
+  },
+  {
+    "id": "carpals",
+    "label": "Os du carpe",
+    "region": "Main",
+    "description": "Huit petits os organisés en deux rangées entre radius/ulna et métacarpiens."
+  },
+  {
+    "id": "metacarpals",
+    "label": "Métacarpiens",
+    "region": "Main",
+    "description": "Cinq os du squelette de la main entre carpe et phalanges."
+  },
+  {
+    "id": "phalanges_hand",
+    "label": "Phalanges de la main",
+    "region": "Main",
+    "description": "Os des doigts organisés en phalanges proximales, moyennes et distales, sauf le pouce."
+  },
+  {
+    "id": "tarsals",
+    "label": "Os du tarse",
+    "region": "Pied",
+    "description": "Ensemble de sept os du tarse, dont talus et calcanéus."
+  },
+  {
+    "id": "metatarsals",
+    "label": "Métatarsiens",
+    "region": "Pied",
+    "description": "Cinq os du squelette du pied entre tarse et phalanges."
+  },
+  {
+    "id": "phalanges_foot",
+    "label": "Phalanges du pied",
+    "region": "Pied",
+    "description": "Os des orteils."
+  }
+]

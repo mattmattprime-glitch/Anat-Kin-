@@ -1,0 +1,188 @@
+{
+  "flexion_coude": {
+    "label": "Flexion du coude",
+    "joint": "Coude",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Biceps brachial",
+      "Brachial",
+      "Brachio-radial"
+    ],
+    "antagonists": [
+      "Triceps brachial",
+      "Anconé"
+    ],
+    "structures": [
+      "elbow"
+    ],
+    "clinical": "Rapprocher l'avant-bras du bras ; utile pour l'analyse des activités fonctionnelles et le renforcement des fléchisseurs."
+  },
+  "extension_coude": {
+    "label": "Extension du coude",
+    "joint": "Coude",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Triceps brachial",
+      "Anconé"
+    ],
+    "antagonists": [
+      "Biceps brachial",
+      "Brachial"
+    ],
+    "structures": [
+      "elbow"
+    ],
+    "clinical": "Retour vers l'alignement du coude ; importante pour les transferts, appuis et gestes de poussée."
+  },
+  "flexion_epaule": {
+    "label": "Flexion de l'épaule",
+    "joint": "Glenohumérale",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Deltoïde antérieur",
+      "Grand pectoral (faisceau claviculaire)",
+      "Coraco-brachial"
+    ],
+    "antagonists": [
+      "Deltoïde postérieur",
+      "Grand dorsal"
+    ],
+    "structures": [
+      "glenohumeral"
+    ],
+    "clinical": "Élever le bras vers l'avant ; analyser l'amplitude, le rythme scapulo-huméral et la douleur."
+  },
+  "abduction_epaule": {
+    "label": "Abduction de l'épaule",
+    "joint": "Glenohumérale",
+    "plane": "Frontal",
+    "axis": "Sagittal",
+    "prime_movers": [
+      "Deltoïde moyen",
+      "Supra-épineux"
+    ],
+    "antagonists": [
+      "Grand pectoral",
+      "Grand dorsal"
+    ],
+    "structures": [
+      "glenohumeral"
+    ],
+    "clinical": "Éloigner le bras du tronc ; utile pour l'évaluation de l'épaule et du rythme scapulo-huméral."
+  },
+  "extension_hanche": {
+    "label": "Extension de la hanche",
+    "joint": "Coxo-fémorale",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Grand fessier",
+      "Ischio-jambiers"
+    ],
+    "antagonists": [
+      "Ilio-psoas",
+      "Droit fémoral"
+    ],
+    "structures": [
+      "hip"
+    ],
+    "clinical": "Propulsion, montée d'escaliers et passage assis-debout ; surveiller le contrôle du bassin."
+  },
+  "flexion_hanche": {
+    "label": "Flexion de la hanche",
+    "joint": "Coxo-fémorale",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Ilio-psoas",
+      "Droit fémoral",
+      "Sartorius"
+    ],
+    "antagonists": [
+      "Grand fessier",
+      "Ischio-jambiers"
+    ],
+    "structures": [
+      "hip"
+    ],
+    "clinical": "Ramener la cuisse vers le tronc ; importante pour la marche, les escaliers et les transferts."
+  },
+  "extension_genou": {
+    "label": "Extension du genou",
+    "joint": "Genou",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Quadriceps fémoral"
+    ],
+    "antagonists": [
+      "Ischio-jambiers"
+    ],
+    "structures": [
+      "knee",
+      "ACL",
+      "PCL"
+    ],
+    "clinical": "Phase d'appui, montée d'escaliers et lever de chaise ; le quadriceps est central dans la rééducation fonctionnelle."
+  },
+  "flexion_genou": {
+    "label": "Flexion du genou",
+    "joint": "Genou",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Ischio-jambiers",
+      "Gastrocnémien",
+      "Sartorius"
+    ],
+    "antagonists": [
+      "Quadriceps fémoral"
+    ],
+    "structures": [
+      "knee",
+      "ACL",
+      "PCL"
+    ],
+    "clinical": "Raccourcir le membre inférieur en phase oscillante et lors des transferts ; contrôler la mobilité et la force."
+  },
+  "dorsiflexion_cheville": {
+    "label": "Dorsiflexion de la cheville",
+    "joint": "Talo-crurale",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Tibial antérieur",
+      "Extenseur long des orteils",
+      "Extenseur long de l'hallux"
+    ],
+    "antagonists": [
+      "Triceps sural"
+    ],
+    "structures": [
+      "ankle",
+      "ATFL"
+    ],
+    "clinical": "Essentielle pour le passage du pied en phase oscillante et pour la progression du tibia au-dessus du pied."
+  },
+  "flexion_plantaire_cheville": {
+    "label": "Flexion plantaire de la cheville",
+    "joint": "Talo-crurale",
+    "plane": "Sagittal",
+    "axis": "Transversal",
+    "prime_movers": [
+      "Gastrocnémien",
+      "Soléaire"
+    ],
+    "antagonists": [
+      "Tibial antérieur"
+    ],
+    "structures": [
+      "ankle",
+      "ATFL"
+    ],
+    "clinical": "Propulsion et montée sur la pointe ; évaluer force, endurance et contrôle unipodal."
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "mcq",
+    "topic": "Anatomie",
+    "q": "Quel muscle est principalement responsable de l'extension du coude ?",
+    "choices": [
+      "Biceps brachial",
+      "Triceps brachial",
+      "Brachial",
+      "Rond pronateur"
+    ],
+    "answer": 1,
+    "explain": "Le triceps brachial est le principal extenseur du coude."
+  },
+  {
+    "type": "mcq",
+    "topic": "Anatomie",
+    "q": "Quel muscle est un dorsiflexeur majeur de la cheville ?",
+    "choices": [
+      "Soléaire",
+      "Gastrocnémien",
+      "Tibial antérieur",
+      "Long fibulaire"
+    ],
+    "answer": 2,
+    "explain": "Le tibial antérieur réalise principalement la dorsiflexion et participe à l'inversion."
+  },
+  {
+    "type": "mcq",
+    "topic": "Biomécanique",
+    "q": "L'abduction de l'épaule se déroule principalement dans quel plan ?",
+    "choices": [
+      "Sagittal",
+      "Frontal",
+      "Transversal",
+      "Oblique"
+    ],
+    "answer": 1,
+    "explain": "L'abduction/adduction se décrit principalement dans le plan frontal autour d'un axe sagittal."
+  },
+  {
+    "type": "mcq",
+    "topic": "Kiné",
+    "q": "Dans une entorse latérale de cheville en récupération, quel axe est classiquement travaillé progressivement ?",
+    "choices": [
+      "Proprioception et contrôle",
+      "Immobilisation permanente",
+      "Repos sans reprise de charge",
+      "Uniquement mobilité passive"
+    ],
+    "answer": 0,
+    "explain": "Le contrôle proprioceptif et fonctionnel fait partie de la progression, selon le bilan et la tolérance."
+  },
+  {
+    "type": "truefalse",
+    "topic": "Anatomie",
+    "q": "Le grand fessier est un extenseur important de la hanche.",
+    "choices": [
+      "Vrai",
+      "Faux"
+    ],
+    "answer": 0,
+    "explain": "Le grand fessier est un puissant extenseur de hanche."
+  },
+  {
+    "type": "truefalse",
+    "topic": "Biomécanique",
+    "q": "La flexion-extension du coude se fait principalement dans le plan frontal.",
+    "choices": [
+      "Vrai",
+      "Faux"
+    ],
+    "answer": 1,
+    "explain": "Elle se fait principalement dans le plan sagittal autour d'un axe transversal."
+  },
+  {
+    "type": "short",
+    "topic": "Anatomie",
+    "q": "Quel nerf innerve principalement le quadriceps ?",
+    "answer": "nerf fémoral",
+    "keywords": [
+      "fémoral"
+    ],
+    "explain": "Le quadriceps reçoit son innervation du nerf fémoral, principalement L2-L4."
+  },
+  {
+    "type": "short",
+    "topic": "Anatomie",
+    "q": "Quel muscle est le principal extenseur du genou ?",
+    "answer": "quadriceps fémoral",
+    "keywords": [
+      "quadriceps"
+    ],
+    "explain": "Le quadriceps est le principal groupe extenseur du genou."
+  },
+  {
+    "type": "case",
+    "topic": "Clinique",
+    "q": "Un patient présente douleur, œdème et dorsiflexion réduite après une entorse latérale de cheville. Quel trio d'objectifs est cohérent ?",
+    "choices": [
+      "Mobilité + force + proprioception",
+      "Immobilisation + absence totale d'appui + repos prolongé",
+      "Uniquement massage",
+      "Uniquement étirements"
+    ],
+    "answer": 0,
+    "explain": "La progression pédagogique associe récupération de mobilité, renforcement et contrôle/proprioception selon la tolérance."
+  },
+  {
+    "type": "case",
+    "topic": "Clinique",
+    "q": "Après une période d'immobilisation du genou, quel élément est particulièrement important à réévaluer ?",
+    "choices": [
+      "Force du quadriceps et qualité du mouvement",
+      "Uniquement la taille du pied",
+      "Uniquement la souplesse du poignet",
+      "Uniquement la force des doigts"
+    ],
+    "answer": 0,
+    "explain": "Le quadriceps et le contrôle du membre inférieur sont essentiels dans la récupération fonctionnelle du genou."
+  }
+]

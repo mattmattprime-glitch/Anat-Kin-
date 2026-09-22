@@ -1,0 +1,202 @@
+[
+  {
+    "q": "Quelle est l'action principale du Deltoïde ?",
+    "a": "Abduction; faisceaux antérieur/postérieur participent aux flexion/extension",
+    "topic": "Épaule"
+  },
+  {
+    "q": "Quelle est l'action principale du Supra-épineux ?",
+    "a": "Initiation de l'abduction; stabilisation gléno-humérale",
+    "topic": "Épaule"
+  },
+  {
+    "q": "Quelle est l'action principale du Infra-épineux ?",
+    "a": "Rotation latérale; stabilisation",
+    "topic": "Épaule"
+  },
+  {
+    "q": "Quelle est l'action principale du Petit rond ?",
+    "a": "Rotation latérale; adduction; stabilisation",
+    "topic": "Épaule"
+  },
+  {
+    "q": "Quelle est l'action principale du Subscapulaire ?",
+    "a": "Rotation médiale; stabilisation",
+    "topic": "Épaule"
+  },
+  {
+    "q": "Quelle est l'action principale du Grand pectoral ?",
+    "a": "Adduction et rotation médiale; flexion selon faisceau",
+    "topic": "Thorax"
+  },
+  {
+    "q": "Quelle est l'action principale du Grand dorsal ?",
+    "a": "Extension, adduction, rotation médiale",
+    "topic": "Dos"
+  },
+  {
+    "q": "Quelle est l'action principale du Biceps brachial ?",
+    "a": "Flexion du coude; supination; flexion d'épaule",
+    "topic": "Bras"
+  },
+  {
+    "q": "Quelle est l'action principale du Brachial ?",
+    "a": "Principal fléchisseur du coude",
+    "topic": "Bras"
+  },
+  {
+    "q": "Quelle est l'action principale du Triceps brachial ?",
+    "a": "Extension du coude",
+    "topic": "Bras"
+  },
+  {
+    "q": "Quelle est l'action principale du Brachio-radial ?",
+    "a": "Flexion du coude; ramène l'avant-bras vers la position neutre",
+    "topic": "Avant-bras"
+  },
+  {
+    "q": "Quelle est l'action principale du Rond pronateur ?",
+    "a": "Pronation; flexion faible du coude",
+    "topic": "Avant-bras"
+  },
+  {
+    "q": "Quelle est l'action principale du Fléchisseur radial du carpe ?",
+    "a": "Flexion et abduction du poignet",
+    "topic": "Avant-bras"
+  },
+  {
+    "q": "Quelle est l'action principale du Extenseur radial du carpe ?",
+    "a": "Extension et abduction du poignet",
+    "topic": "Avant-bras"
+  },
+  {
+    "q": "Quelle est l'action principale du Ilio-psoas ?",
+    "a": "Flexion de hanche; stabilisation lombopelvienne",
+    "topic": "Hanche"
+  },
+  {
+    "q": "Quelle est l'action principale du Grand fessier ?",
+    "a": "Extension et rotation latérale de hanche",
+    "topic": "Fesse"
+  },
+  {
+    "q": "Quelle est l'action principale du Moyen fessier ?",
+    "a": "Abduction; stabilisation du bassin",
+    "topic": "Fesse"
+  },
+  {
+    "q": "Quelle est l'action principale du Tenseur du fascia lata ?",
+    "a": "Flexion, abduction, rotation médiale; tension tractus ilio-tibial",
+    "topic": "Hanche"
+  },
+  {
+    "q": "Quelle est l'action principale du Droit fémoral ?",
+    "a": "Extension du genou; flexion de hanche",
+    "topic": "Cuisse"
+  },
+  {
+    "q": "Quelle est l'action principale du Vaste latéral ?",
+    "a": "Extension du genou",
+    "topic": "Cuisse"
+  },
+  {
+    "q": "Quelle est l'action principale du Vaste médial ?",
+    "a": "Extension du genou; contrôle médial de la patella",
+    "topic": "Cuisse"
+  },
+  {
+    "q": "Quelle est l'action principale du Sartorius ?",
+    "a": "Flexion, abduction, rotation latérale de hanche; flexion genou",
+    "topic": "Cuisse"
+  },
+  {
+    "q": "Quelle est l'action principale du Long adducteur ?",
+    "a": "Adduction de hanche",
+    "topic": "Cuisse médiale"
+  },
+  {
+    "q": "Quelle est l'action principale du Gracile ?",
+    "a": "Adduction de hanche; flexion genou",
+    "topic": "Cuisse médiale"
+  },
+  {
+    "q": "Quels mouvements sont associés à l'articulation Glenohumérale ?",
+    "a": "Flexion, extension, abduction, adduction, rotations, circumduction",
+    "topic": "Épaule"
+  },
+  {
+    "q": "Quels mouvements sont associés à l'articulation Coude ?",
+    "a": "Flexion, extension; prono-supination via articulations radio-ulnaires",
+    "topic": "Coude"
+  },
+  {
+    "q": "Quels mouvements sont associés à l'articulation Radio-carpienne ?",
+    "a": "Flexion, extension, inclinaisons radiale et ulnaire",
+    "topic": "Poignet"
+  },
+  {
+    "q": "Quels mouvements sont associés à l'articulation Coxo-fémorale ?",
+    "a": "Flexion, extension, abduction, adduction, rotations",
+    "topic": "Hanche"
+  },
+  {
+    "q": "Quels mouvements sont associés à l'articulation Genou ?",
+    "a": "Flexion, extension; rotations accessoires en flexion",
+    "topic": "Genou"
+  },
+  {
+    "q": "Quels mouvements sont associés à l'articulation Talo-crurale ?",
+    "a": "Dorsiflexion et flexion plantaire",
+    "topic": "Cheville"
+  },
+  {
+    "q": "Quels mouvements sont associés à l'articulation Sous-talienne ?",
+    "a": "Mouvements contribuant à l'inversion/éversion",
+    "topic": "Pied"
+  },
+  {
+    "q": "Quels mouvements sont associés à l'articulation Rachis cervical ?",
+    "a": "Flexion, extension, inclinaisons, rotations",
+    "topic": "Rachis"
+  },
+  {
+    "q": "Quels axes de rééducation sont associés au cas « Entorse latérale de cheville » ?",
+    "a": [
+      "mobilité",
+      "renforcement",
+      "proprioception",
+      "tâches fonctionnelles"
+    ],
+    "topic": "Clinique"
+  },
+  {
+    "q": "Quels axes de rééducation sont associés au cas « Douleur fémoro-patellaire » ?",
+    "a": [
+      "gestion de charge",
+      "renforcement quadriceps",
+      "renforcement hanche",
+      "progression fonctionnelle"
+    ],
+    "topic": "Clinique"
+  },
+  {
+    "q": "Quels axes de rééducation sont associés au cas « Douleur liée à la coiffe des rotateurs » ?",
+    "a": [
+      "gestion de charge",
+      "mobilité selon déficit",
+      "renforcement progressif",
+      "réintégration fonctionnelle"
+    ],
+    "topic": "Clinique"
+  },
+  {
+    "q": "Quels axes de rééducation sont associés au cas « Lombalgie commune — approche fonctionnelle » ?",
+    "a": [
+      "éducation",
+      "activité graduée",
+      "exercices adaptés",
+      "retour progressif aux activités"
+    ],
+    "topic": "Clinique"
+  }
+]

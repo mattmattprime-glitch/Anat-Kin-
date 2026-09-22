@@ -1,0 +1,5 @@
+
+.course-map{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}
+
+/* V31 */
+.ak-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}.ak-grid section{padding:15px;border:1px solid rgba(127,127,127,.25);border-radius:15px}

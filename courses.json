@@ -1,0 +1,51 @@
+[
+  {
+    "id": "anatomie-intro",
+    "title": "Anatomie humaine — Introduction",
+    "category": "Anatomie",
+    "file": "Anatomie_Humaine_Introduction_COURS_PEDAGOGIQUE_VERIFIE.pdf",
+    "description": "Support d'introduction à l'anatomie humaine utilisé pour la base de révision."
+  },
+  {
+    "id": "squelette-mmss",
+    "title": "Système squelettique appendiculaire — MMSS",
+    "category": "Anatomie",
+    "file": "1. Système squelettique MMSS.pdf",
+    "description": "Cours UFV sur le squelette du membre supérieur : rappels, clavicule, scapula et structures associées."
+  },
+  {
+    "id": "fondements-kine",
+    "title": "Fondements de la kinésithérapie — Concepts généraux",
+    "category": "Kinésithérapie",
+    "file": "Fondements_de_la_Kinesitherapie_CONCEPTS_GENERAUX_COURS_COMPLET_SCHÉMAS_TABLEAUX.pdf",
+    "description": "Concepts généraux de la kinésithérapie, domaines d'action et agents physiques."
+  },
+  {
+    "id": "biomeca-intro",
+    "title": "Biomécanique — Introduction",
+    "category": "Biomécanique",
+    "file": "Biomecanique_Introduction_COURS_PEDAGOGIQUE_VERIFIE_FINAL.pdf",
+    "description": "Support pédagogique d'introduction à la biomécanique."
+  },
+  {
+    "id": "biomeca-mouvement",
+    "title": "Biomécanique — Analyse du mouvement et magnitudes",
+    "category": "Biomécanique",
+    "file": "Biomecanique_Analyse_Mouvement_MAGNITUDES_COURS_CORRIGE_TABLEAUX_SCHEMAS.pdf",
+    "description": "Cours enrichi consacré à l'analyse du mouvement et aux grandeurs biomécaniques."
+  },
+  {
+    "id": "physio-bloc1",
+    "title": "Physiologie humaine — Bloc I",
+    "category": "Physiologie",
+    "file": "Physiologie_Humaine_Bloc_I_COURS_VRAIMENT_ENRICHI_AVEC_LES_43_PAGES_ORIGINALES.pdf",
+    "description": "Cours de physiologie humaine, bloc I."
+  },
+  {
+    "id": "physio-cellule",
+    "title": "Physiologie cellulaire — Synthèse des protéines et division",
+    "category": "Physiologie",
+    "file": "Physiologie_Cellule_Synthese_Proteines_Division_COURS_COMPLET_ENRICHI.pdf",
+    "description": "Cours consacré à la synthèse protéique et à la division cellulaire."
+  }
+]

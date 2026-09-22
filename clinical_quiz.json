@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Un patient présente une limitation de dorsiflexion de cheville. Quel mouvement doit être évalué en priorité ?",
+    "a": "Dorsiflexion",
+    "topic": "Cheville"
+  },
+  {
+    "q": "Lors de l'extension du genou, quel groupe musculaire est moteur principal ?",
+    "a": "Quadriceps fémoral",
+    "topic": "Genou"
+  },
+  {
+    "q": "L'abduction de l'épaule se déroule principalement dans quel plan ?",
+    "a": "Frontal",
+    "topic": "Épaule"
+  },
+  {
+    "q": "Quel muscle est un extenseur majeur de la hanche ?",
+    "a": "Grand fessier",
+    "topic": "Hanche"
+  },
+  {
+    "q": "Quel muscle est le principal extenseur du coude ?",
+    "a": "Triceps brachial",
+    "topic": "Coude"
+  },
+  {
+    "q": "Quel ligament est classiquement associé à l'entorse latérale de cheville ?",
+    "a": "ATFL",
+    "topic": "Cheville"
+  },
+  {
+    "q": "Quel groupe musculaire s'oppose principalement à l'extension du genou ?",
+    "a": "Ischio-jambiers",
+    "topic": "Genou"
+  },
+  {
+    "q": "La flexion-extension du coude se fait principalement autour de quel axe ?",
+    "a": "Transversal",
+    "topic": "Coude"
+  },
+  {
+    "q": "Quel muscle participe à la rotation latérale de l'épaule ?",
+    "a": "Infra-épineux",
+    "topic": "Épaule"
+  },
+  {
+    "q": "Quel ligament est appelé LCA en français ?",
+    "a": "ACL",
+    "topic": "Genou"
+  },
+  {
+    "q": "Quel muscle est un dorsiflexeur majeur de la cheville ?",
+    "a": "Tibial antérieur",
+    "topic": "Cheville"
+  },
+  {
+    "q": "Quel mouvement rapproche un membre du plan médian ?",
+    "a": "Adduction",
+    "topic": "Mouvement"
+  }
+]

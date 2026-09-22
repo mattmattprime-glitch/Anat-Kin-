@@ -1,0 +1,120 @@
+{
+  "joints": [
+    {
+      "id": "glenohumeral",
+      "fr": "Articulation gléno-humérale",
+      "la": "Articulatio humeri",
+      "region": "Épaule",
+      "type": "Synoviale sphéroïde",
+      "surfaces": "Tête humérale et cavité glénoïdale de la scapula",
+      "movements": "Flexion, extension, abduction, adduction, rotations médiale et latérale, circumduction",
+      "kine": "Mobilité multidirectionnelle ; stabilité assurée notamment par la coiffe des rotateurs, le labrum et les ligaments."
+    },
+    {
+      "id": "elbow",
+      "fr": "Articulation du coude",
+      "la": "Articulatio cubiti",
+      "region": "Coude",
+      "type": "Complexe articulaire synovial",
+      "surfaces": "Humérus, ulna et radius",
+      "movements": "Flexion-extension ; pronation-supination via les articulations radio-ulnaires",
+      "kine": "La stabilité et la récupération de la mobilité sont essentielles après traumatisme ou immobilisation."
+    },
+    {
+      "id": "wrist",
+      "fr": "Articulation du poignet",
+      "la": "Articulatio radiocarpalis",
+      "region": "Poignet",
+      "type": "Synoviale ellipsoïde",
+      "surfaces": "Radius et disque articulaire avec le carpe proximal",
+      "movements": "Flexion, extension, inclinaison radiale et ulnaire",
+      "kine": "Évaluer mobilité, douleur, force de préhension et contrôle fonctionnel."
+    },
+    {
+      "id": "hip",
+      "fr": "Articulation coxo-fémorale",
+      "la": "Articulatio coxae",
+      "region": "Hanche",
+      "type": "Synoviale sphéroïde",
+      "surfaces": "Tête fémorale et acétabulum",
+      "movements": "Flexion, extension, abduction, adduction, rotations, circumduction",
+      "kine": "Articulation très stable ; la force des abducteurs est importante pour le contrôle du bassin."
+    },
+    {
+      "id": "knee",
+      "fr": "Articulation du genou",
+      "la": "Articulatio genus",
+      "region": "Genou",
+      "type": "Synoviale complexe",
+      "surfaces": "Fémur, tibia et patella",
+      "movements": "Flexion-extension avec rotations accessoires",
+      "kine": "Surveiller mobilité, épanchement, contrôle neuromusculaire, quadriceps et ischio-jambiers."
+    },
+    {
+      "id": "ankle",
+      "fr": "Articulation talo-crurale",
+      "la": "Articulatio talocruralis",
+      "region": "Cheville",
+      "type": "Synoviale ginglyme",
+      "surfaces": "Tibia, fibula et talus",
+      "movements": "Dorsiflexion et flexion plantaire",
+      "kine": "La proprioception et la force des stabilisateurs sont majeures après entorse."
+    }
+  ],
+  "ligaments": [
+    {
+      "id": "acl",
+      "fr": "Ligament croisé antérieur",
+      "la": "Ligamentum cruciatum anterius",
+      "region": "Genou",
+      "attachments": "Aire intercondylaire antérieure du tibia → partie postéro-médiale du condyle fémoral latéral",
+      "role": "Limite notamment la translation antérieure du tibia et contribue au contrôle rotatoire",
+      "kine": "Rééducation centrée sur force, contrôle neuromusculaire, stabilité dynamique et progression fonctionnelle."
+    },
+    {
+      "id": "pcl",
+      "fr": "Ligament croisé postérieur",
+      "la": "Ligamentum cruciatum posterius",
+      "region": "Genou",
+      "attachments": "Aire intercondylaire postérieure du tibia → partie antérieure du condyle fémoral médial",
+      "role": "Limite notamment la translation postérieure du tibia",
+      "kine": "La charge et les exercices sont adaptés au stade de cicatrisation et aux contraintes du ligament."
+    },
+    {
+      "id": "mcl",
+      "fr": "Ligament collatéral tibial",
+      "la": "Ligamentum collaterale tibiale",
+      "region": "Genou",
+      "attachments": "Épicondyle médial du fémur → face médiale du tibia",
+      "role": "Résiste principalement aux contraintes en valgus",
+      "kine": "Évaluer douleur, laxité, contrôle frontal et reprise progressive des activités."
+    },
+    {
+      "id": "lcl",
+      "fr": "Ligament collatéral fibulaire",
+      "la": "Ligamentum collaterale fibulare",
+      "region": "Genou",
+      "attachments": "Épicondyle latéral du fémur → tête de la fibula",
+      "role": "Contribue à la stabilité latérale du genou",
+      "kine": "À intégrer dans l'évaluation de la stabilité du compartiment latéral."
+    },
+    {
+      "id": "atfl",
+      "fr": "Ligament talo-fibulaire antérieur",
+      "la": "Ligamentum talofibulare anterius",
+      "region": "Cheville",
+      "attachments": "Fibula distale → talus",
+      "role": "Stabilisateur latéral majeur de la cheville, particulièrement en inversion",
+      "kine": "Après entorse latérale : mobilité, œdème, force fibulaire et proprioception sont à réévaluer progressivement."
+    },
+    {
+      "id": "deltoid_ankle",
+      "fr": "Ligament deltoïde",
+      "la": "Ligamentum deltoideum",
+      "region": "Cheville",
+      "attachments": "Malléole médiale → talus, calcanéus et naviculaire",
+      "role": "Stabilise principalement le versant médial de la cheville",
+      "kine": "Participe au contrôle de la stabilité médiale et à la reprise de charge."
+    }
+  ]
+}

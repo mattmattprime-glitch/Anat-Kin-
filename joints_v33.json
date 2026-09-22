@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Glenohumérale",
+    "type": "Synoviale sphéroïde",
+    "surfaces": "Tête humérale + cavité glénoïdale",
+    "movements": "Flexion, extension, abduction, adduction, rotations, circumduction",
+    "stability": "Labrum, capsule, ligaments et coiffe des rotateurs",
+    "clinical": "Instabilité, tendinopathie de coiffe, raideur."
+  },
+  {
+    "name": "Acromioclaviculaire",
+    "type": "Synoviale plane",
+    "surfaces": "Acromion + extrémité acromiale de la clavicule",
+    "movements": "Petits glissements/rotations couplés",
+    "stability": "Ligaments acromioclaviculaire et coracoclaviculaire",
+    "clinical": "Entorse acromioclaviculaire."
+  },
+  {
+    "name": "Sterno-claviculaire",
+    "type": "Synoviale en selle",
+    "surfaces": "Clavicule + manubrium + premier cartilage costal",
+    "movements": "Élévation, abaissement, protraction, rétraction et rotation",
+    "stability": "Capsule et ligaments sternoclaviculaires/costoclaviculaires",
+    "clinical": "Rare mais importante pour la cinématique de l'épaule."
+  },
+  {
+    "name": "Radio-ulnaire proximale",
+    "type": "Synoviale trochoïde",
+    "surfaces": "Tête radiale + incisura radiale de l'ulna",
+    "movements": "Pronation et supination",
+    "stability": "Ligament annulaire",
+    "clinical": "Restriction de pronosupination."
+  },
+  {
+    "name": "Radio-ulnaire distale",
+    "type": "Synoviale trochoïde",
+    "surfaces": "Tête ulnaire + incisura ulnaire du radius",
+    "movements": "Pronation et supination",
+    "stability": "Complexe fibrocartilagineux triangulaire",
+    "clinical": "Douleur ulnaire du poignet, instabilité."
+  },
+  {
+    "name": "Carpo-métacarpienne du pouce",
+    "type": "Synoviale en selle",
+    "surfaces": "Trapèze + base du 1er métacarpien",
+    "movements": "Flexion, extension, abduction, adduction, opposition",
+    "stability": "Capsule et ligaments",
+    "clinical": "Arthrose trapézo-métacarpienne."
+  },
+  {
+    "name": "Métatarso-phalangienne",
+    "type": "Synoviale condylienne",
+    "surfaces": "Tête métatarsienne + base phalangienne",
+    "movements": "Flexion, extension, abduction/adduction limitées",
+    "stability": "Plaque plantaire et ligaments collatéraux",
+    "clinical": "Hallux rigidus ou troubles de propulsion."
+  }
+]

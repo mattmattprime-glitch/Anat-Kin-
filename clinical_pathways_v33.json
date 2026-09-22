@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Entorse latérale de cheville",
+    "phase": "J10–retour au sport",
+    "structures": [
+      "ATFL",
+      "CFL",
+      "Fibularis longus",
+      "Fibularis brevis",
+      "Tibialis anterior"
+    ],
+    "assessment": "Douleur, œdème, mobilité, appui, force, équilibre",
+    "goals": [
+      "Récupérer dorsiflexion",
+      "Renforcer stabilisateurs",
+      "Reprendre équilibre",
+      "Retour progressif aux impacts"
+    ],
+    "exercises": [
+      "Dorsiflexion élastique",
+      "Équilibre unipodal",
+      "Élévation sur pointes"
+    ],
+    "progression": "Mobilité → force → proprioception → fonction."
+  },
+  {
+    "name": "Rupture du LCA — rééducation fonctionnelle",
+    "phase": "Selon protocole médical et phase",
+    "structures": [
+      "ACL",
+      "Quadriceps",
+      "Hamstrings",
+      "Genou"
+    ],
+    "assessment": "Douleur, épanchement, extension, flexion, force, contrôle",
+    "goals": [
+      "Récupérer extension",
+      "Réactiver quadriceps",
+      "Restaurer force et contrôle",
+      "Progression fonctionnelle"
+    ],
+    "exercises": [
+      "Quadriceps isométrique",
+      "Squat assisté",
+      "Step-up",
+      "Équilibre unipodal"
+    ],
+    "progression": "Contrôle symptomatique → mobilité → force → contrôle → tâches spécifiques."
+  },
+  {
+    "name": "Raideur d'épaule",
+    "phase": "Phase de récupération",
+    "structures": [
+      "Glenohumérale",
+      "Deltoïde",
+      "Coiffe des rotateurs",
+      "Scapula"
+    ],
+    "assessment": "Mobilité active/passive, douleur, force, fonction",
+    "goals": [
+      "Récupérer mobilité tolérée",
+      "Restaurer contrôle scapulo-huméral",
+      "Recharger progressivement"
+    ],
+    "exercises": [
+      "Rotation externe d'épaule élastique",
+      "Rowing élastique"
+    ],
+    "progression": "Mobilité active → contrôle → résistance → fonction."
+  },
+  {
+    "name": "Cervicalgie mécanique",
+    "phase": "Évolution selon symptômes",
+    "structures": [
+      "Rachis cervical",
+      "Sternocleidomastoid",
+      "Trapezius",
+      "Erector spinae"
+    ],
+    "assessment": "Douleur, mobilité, neurologique si indiqué, fonction",
+    "goals": [
+      "Éducation",
+      "Mobilité",
+      "Endurance cervico-scapulaire",
+      "Retour aux activités"
+    ],
+    "exercises": [
+      "Rowing élastique",
+      "Travail postural progressif"
+    ],
+    "progression": "Éducation → mouvement → endurance → exposition fonctionnelle."
+  },
+  {
+    "name": "Tendinopathie d'Achille",
+    "phase": "Rééducation progressive",
+    "structures": [
+      "Achilles tendon",
+      "Gastrocnemius",
+      "Soleus"
+    ],
+    "assessment": "Douleur liée à charge, force, capacité de saut si appropriée",
+    "goals": [
+      "Gérer charge",
+      "Restaurer capacité du triceps sural",
+      "Reprendre impacts progressivement"
+    ],
+    "exercises": [
+      "Élévation sur pointes"
+    ],
+    "progression": "Isométrique/charge tolérée → isotonic → lourd/lent → impacts spécifiques."
+  },
+  {
+    "name": "Épicondylalgie latérale",
+    "phase": "Gestion de charge",
+    "structures": [
+      "Extensor carpi radialis brevis",
+      "Extensor digitorum",
+      "Coude"
+    ],
+    "assessment": "Douleur liée à charge, force de préhension, tolérance fonctionnelle",
+    "goals": [
+      "Moduler charge",
+      "Restaurer capacité des extenseurs",
+      "Retour gestes professionnels/sportifs"
+    ],
+    "exercises": [
+      "Extension de poignet résistée",
+      "Rowing léger selon tolérance"
+    ],
+    "progression": "Charge tolérée → renforcement progressif → exposition spécifique."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "version": "V33 FULL DEPTH",
+  "new": [
+    "myologie approfondie",
+    "neuroanatomie",
+    "ostéologie",
+    "arthrologie",
+    "mouvements",
+    "bilans kiné",
+    "pathologies",
+    "rééducation",
+    "examens",
+    "parcours de révision"
+  ],
+  "counts": {
+    "muscles": 97,
+    "bones": 11,
+    "joints": 7,
+    "nerves": 13,
+    "movements": 10,
+    "pathways": 6,
+    "exercises": 12,
+    "assessments": 4,
+    "courses": 7,
+    "exam_questions": 10
+  }
+}
